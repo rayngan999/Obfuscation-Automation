@@ -1,0 +1,1 @@
+System.register([],(function(t){"use strict";return{execute:function(){var n=function(){function t(){}t.prototype.sendTracking=function(t,n){if(typeof ga==="function"){tmEvent("Startseite",n!==null&&n!==void 0?n:"click",t)}};return t}();t("T",n)}}}));

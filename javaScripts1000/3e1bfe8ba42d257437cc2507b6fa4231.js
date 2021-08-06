@@ -1,0 +1,1 @@
+(function () { /*Hong Kong Garden*/	var country = {'code':'hk','id':64,'defaultLangauge':'zh-tw'};	if (!window.evidon) window.evidon = {};	if (window.evidon.notice) window.evidon.notice.setLocation(country);	else window.evidon.location = country;})();

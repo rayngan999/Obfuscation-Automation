@@ -1,0 +1,1 @@
+window.cnx_usr_storage&&window.cnx_usr_storage.syncDemandPartner({demandPartner:'19',demandPartnerUserId:'5d778296-7b19-4cf4-833d-2fb6aae284f9'});

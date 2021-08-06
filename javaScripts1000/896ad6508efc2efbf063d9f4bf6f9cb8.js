@@ -1,0 +1,9 @@
+//tealium universal tag - utag.sync ut4.0.202108011530, Copyright 2021 Tealium.com Inc. All Rights Reserved.
+function getCookie(cname){var name=cname+"=";var decodedCookie=decodeURIComponent(document.cookie);var ca=decodedCookie.split(';');for(var i=0;i<ca.length;i++){var c=ca[i];while(c.charAt(0)==' '){c=c.substring(1);}
+if(c.indexOf(name)===0){return c.substring(name.length,c.length);}}
+return"";}
+let consentsCookie=getCookie("CONSENTMGR");let consents=consentsCookie.split("|");if((consents[1]=='consents:true'&&typeof consents[2]=="undefined")||(/^.*c1:1.*/.test(consentsCookie)))
+{if(window.location.hostname.match(/www.openbank.es|clientes.openbank.es/)){var gatotid="UA-50528584-1";}else{var gatotid="UA-50528584-2";}
+if(location.pathname=="/hipoteca-mixta"&&location.hostname=="www.ocu.openbank.es"){var dataLayer=dataLayer||[];var css='.async-hide { opacity: 0 !important} ',head=document.head||document.getElementsByTagName('head')[0],style=document.createElement('style');style.type='text/css';if(style.styleSheet){style.styleSheet.cssText=css;}else{style.appendChild(document.createTextNode(css));}
+(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;})(window,document.documentElement,'async-hide','dataLayer',2000,{'GTM-NN6ZVT8':true});head.appendChild(style);}
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create',gatotid,'auto',{'name':'tealium_0','allowLinker':true,'cookieFlags':'SameSite=None; Secure'});ga('require','GTM-NN6ZVT8');}

@@ -1,0 +1,1 @@
+var frase_bot=angular.module("FraseBot",["ui.router","bot_home"]);frase_bot.config(["$stateProvider","$urlRouterProvider","$locationProvider",function(o,e,r){o.state("bot_home",{url:"/home/{user_hash}",templateUrl:"/frase_bot/html/bot-home.html",controller:"BotHomeController"}),e.otherwise("/home/"),r.html5Mode(!0)}]);

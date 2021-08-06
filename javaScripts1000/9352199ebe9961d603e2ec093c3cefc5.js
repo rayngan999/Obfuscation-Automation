@@ -1,0 +1,1 @@
+Krux.ns.britishairwaysuk.kxjsonp_optOutCheck({"status":200,"body":{}})

@@ -1,0 +1,2 @@
+/*! SPORT */
+!function(){zUtils=window.zUtils||{},zUtils.ignOpen=function(){var a=[],b=function(b){var c=null;return a.forEach(function(a){a.ele[0]===b[0]&&(c=a)}),c},c=function(){$('[data-actas="ign-open"]').each(function(){b($(this))||(a.push({ele:$(this)}),$(this).click(function(a){return a.preventDefault(),$(this).parent().toggleClass("open"),!1}))})};return{init:function(){c()},reload:function(){c()}}}()}();

@@ -1,0 +1,1 @@
+amp._rc("facdeca0-be36-4833-a0ae-93c73487052b","spin",{"fullscreen":true,"autospin-stop":"hover","autospin-start":"hover","speed":"50","zoom":"pdpZoom","loop-row":true,"smoothing":true,"loop-column":true,"spin":"drag","autospin":"once","thumb":"pdpZoom","mousewheel-step":"3"});

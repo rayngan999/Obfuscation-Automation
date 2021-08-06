@@ -1,0 +1,2 @@
+AddShoppersWidget.set_cookie("addshoppers.com", "2|1:0|10:1627965716|15:addshoppers.com|44:MjhkMzU4NGQ4MGVjNDZmNTgzYWEzMjdjYjEzNjIyMjQ=|6265db49da71b454c6929a6fa08a7b9a19351d8bd39c6c1448aeb51d9341e915", 24 * 60 * 60 * 1000);
+AddShoppersWidget.load_no_cookie();

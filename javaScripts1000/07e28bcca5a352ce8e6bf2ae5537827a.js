@@ -1,0 +1,1 @@
+Cube("datav:/npm/is-arrayish/0.3.1",[],function(a){return a.exports=function(a){return a&&"string"!==typeof a&&(a instanceof Array||Array.isArray(a)||0<=a.length&&(a.splice instanceof Function||Object.getOwnPropertyDescriptor(a,a.length-1)&&"String"!==a.constructor.name))},a.exports});

@@ -1,0 +1,5 @@
+<html>
+<body leftmargin='0' topmargin='0' marginwidth='0' marginheight='0' style='background-color:transparent; width: 100%; text-align: center;'>
+<html><body><div><img src="https://cm.g.doubleclick.net/pixel?google_nid=lotame_dmp&google_hm=Y2M3ZDg3NTllMjc1MGE3OTFmM2M3MzIwYmI5NmQ0NDg" height="1" width="1"><img src="https://tags.bluekai.com/site/5907?limit=0&id=853274d473741d12eedb3fea3b91e803" width=1 height=1><img src="https://global.ib-ibi.com/image.sbxx?go=262106&pid=420&xid=cc7d8759e2750a791f3c7320bb96d448" width="1" height="1"/><img src="https://sync-tm.everesttech.net/upi/pid/bsTd8NdE?redir=https%3A%2F%2Fsync.crwdcntrl.net%2Fmap%2Fc%3D1811%2Ftp%3DTBMG%2Ftpid%3D%24%7BTM_USER_ID%7D" width="1" height="1"><img src="https://pixel.tapad.com/idsync/ex/receive?partner_id=LOTAME&partner_device_id=cc7d8759e2750a791f3c7320bb96d448&gdpr=0&partner_url=https%3A%2F%2Fsync.crwdcntrl.net%2Fmap%2Fc%3D10158%2Ftp%3DTPAD%2Ftpid%3D%24%7BTA_DEVICE_ID%7D" width="1" height="1"/><img src="https://match.adsrvr.org/track/cmf/generic?ttd_pid=lotame&ttd_tpi=1&gdpr=0" width="1" height="1"/></div></body></html>
+</body>
+</html>

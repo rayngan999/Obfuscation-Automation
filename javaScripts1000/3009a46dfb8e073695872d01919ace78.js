@@ -1,0 +1,1 @@
+ mtopjsonp4({"api":"mtop.aliexpress.lighthouse.config.get","data":{"gdprUiType":1,"serverTimestamp":1627925921569,"isInEU":false},"ret":["SUCCESS::è°ç¨æå"],"v":"1.0"})

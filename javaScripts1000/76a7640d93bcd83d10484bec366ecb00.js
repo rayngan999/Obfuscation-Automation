@@ -1,0 +1,1 @@
+LR_inviteimgJS=1;checkcount=2;LR_sidexists=0;LR_ip="119.236.101.168";var lr_iptemp=LR_getCookie('IP');if(lr_iptemp==null)lr_iptemp='|';if(lr_iptemp.indexOf('|'+LR_ip+'|')==-1)LR_SetCookie('IP', lr_iptemp+LR_ip+'|', 2628000);LR_ip1="%u9999%u6e2f";LR_ip2="";

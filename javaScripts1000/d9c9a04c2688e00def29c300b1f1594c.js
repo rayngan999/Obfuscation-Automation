@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/6d2e783bbfe3/c0c47c5c96c6/7bf4c6ce15fa/RC65ced18f1af74d97a9ef90099d57a262-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/6d2e783bbfe3/c0c47c5c96c6/7bf4c6ce15fa/RC65ced18f1af74d97a9ef90099d57a262-source.min.js', "ire(\"identify\",{customerId:_satellite.getVar(\"AdOps_AdobeCookieV2\"),customerEmail:_satellite.getVar(\"AdOps_AllPages_All_LoggedInSHA1HashEmail\")});");

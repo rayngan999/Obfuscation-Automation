@@ -1,0 +1,5 @@
+var _mgq=_mgq||[];
+_mgq.push(["AdskeeperLoadGoods1160344_00cb2",[
+["Herbeauty","10017980","1","What Is The Most Common Plastic Surgery In Korea?","","0","","","","zwl5LCX-0yUey8EK8ipICY31La5bomaRp1or4MIA8GT0esUAWGijFfOWv9j8Kuoy",{"i":"https://s-img.adskeeper.com/g/10017980/984x656/-/aHR0cDovL2NsLmltZ2hvc3RzLmNvbS9pbWdoL2ltYWdlL2ZldGNoL2FyXzM6MixjX2ZpbGwsZV9zaGFycGVuOjEwMCxmX2pwZyxnX3h5X2NlbnRlcix3XzEwMjAseF81ODkseV81NjcvaHR0cDovL2ltZ2hvc3RzLmNvbS90LzIwMjEtMDcvMTAxOTI0Lzk4ZjIwMDQ4MzcxZGM5NmFkNWU5YTQ3NjA1OWQ0OWEwLmpwZw.jpg?v=1627938075-u9k-plEEq9UXjew58mQKL5UHo0x5Th6BBXJVvHjn6LE","l":"//www.adskeeper.com/ghits/10017980/i/57493697/2/pp/1/1?h=zwl5LCX-0yUey8EK8ipICY31La5bomaRp1or4MIA8GT0esUAWGijFfOWv9j8Kuoy&rid=c675e84d-f3d4-11eb-88e7-78ac4422784a&tt=Direct&att=3&cpm=1&gbpp=1&abd=1&iv=11&ct=1","adc":[],"sdl":0,"dl":"","type":"w","clicktrackers":[],"cta":"Learn more","cdt":""}
+]],{"awc":{},"dt":"desktop","ts":"","tt":"Direct","isBot":0,"h2":"P_ZSJue8oBKknH_0sFKL26jbPsuu_OFHbKJwQ4WsibY*","ats":0,"rid":"c675e84d-f3d4-11eb-88e7-78ac4422784a","pvid":"17b08abaf82b075b087","iv":11,"brid":34,"muidn":"l72fTgw7KT1e","dnt":0,"cv":2}]);
+_mgqp();

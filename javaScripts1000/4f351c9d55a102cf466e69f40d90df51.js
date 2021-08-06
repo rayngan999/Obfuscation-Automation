@@ -1,0 +1,2 @@
+(new R9.logger).time("combined");(function(b,c){b.createComponentClass("common.frontdoor.brands.momondo.brandonly.PromoBoxes",{dialog:null,init:function(){var a=this;a.dialog=a.getChildElement("guarantee-priceDialog");if(0<a.dialog.length)a.element.find(".more").on("click",function(){a.dialog.dialog({preventInitialFocus:!0}).getWidget().open()})}})})(R9,jQuery);(new R9.logger).timeEnd("combined");
+//# sourceMappingURL=https://www.kayak.com/s/horizon/source-maps/combined.js.map?v=9f16fd59313ab2a771bd3638bc7dc18c7d4a069f-keel-headings-update

@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html lang="zh" class="noJs">
+	<head>
+		<title>IBM Video Streaming</title>
+
+		
+		<link rel="preload" href="https://fonts.gstatic.com/s/ibmplexsans/v6/zYX9KVElMYYaJe8bpLHnCwDKjXr8AIFsdP3pBms.woff2" as="font" type="font/woff2" crossorigin>
+		<link rel="preload" href="https://fonts.gstatic.com/s/ibmplexsans/v6/zYXgKVElMYYaJe8bpLHnCwDKhdHeFaxOedc.woff2" as="font" type="font/woff2" crossorigin>
+		<link rel="preload" href="https://fonts.gstatic.com/s/ibmplexsans/v6/zYX9KVElMYYaJe8bpLHnCwDKjQ76AIFsdP3pBms.woff2" as="font" type="font/woff2" crossorigin>
+
+		
+				
+	<link rel="shortcut icon" href="https://ustvstaticcdn2-a.akamaihd.net/favicon.ico">
+	<link rel="apple-touch-icon" href="https://ustvstaticcdn2-a.akamaihd.net/apple-touch-icon.png">
+
+		
+		<meta charset="utf-8">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="verify-v1" content="rxzEzICqj/Fzcsk4DodfDnrkiLUEa8g7Bj5yONd80Pk=">
+
+						<meta name="robots" content="noindex, nofollow" />
+<meta name="description" content="Ustream.Tv: Live streaming and video" />
+
+		<link rel="stylesheet" type="text/css" href="https://ustvstaticcdn2-a.akamaihd.net/packed/ibm_fonts:16274709751.css" />
+		<link rel="stylesheet" type="text/css" href="https://ustreamssl-a.akamaihd.net/web-player/ustream-player/branches/hlsjs-canary/css/embed.css" />
+<link rel="stylesheet" type="text/css" href="https://ustreamssl-a.akamaihd.net/web-player/ustream-player/branches/hlsjs-canary/css/ui.css" />
+		<script type="text/javascript" src="https://ustvstaticcdn1-a.akamaihd.net/js/fake-define.js?201205251501"></script>
+				<script type="text/javascript" id="UstreamExposedVariables">
+if (!window.ustream) ustream = {};
+if (typeof ustream.vars == 'undefined') ustream.vars = {};ustream.vars.isLive=true;ustream.vars.locale="zh_TW";ustream.vars.planName="basic";ustream.vars.planSignupDate=null;ustream.vars.domainConfig={"enableConfigOverwrite":false,"siteShort":"video.ibm.com","site":"video.ibm.com","tcdn":"tcdn.ustream.tv","rgw":"rgw.services.video.ibm.com","ums":"ums.services.video.ibm.com","aggregator":"aggregator.services.video.ibm.com","cdngwPlain":"cdngw.ustream.tv","cdngwSecure":"cdngw-a.akamaihd.net","staticPlain":"static-cdn1.ustream.tv","cdn1":"cdn1.ustream.tv","staticSecure":"ustreamssl-a.akamaihd.net","siteLocal":"video.ibm.com.lh","siteDev":"www.dev.video.ibm.com","contentUrl":"www.ustream.tv","eventtrackingUrl":"eventtracking-log.services.video.ibm.com","crt":"crt-event-ingest.services.video.ibm.com","api":"api.video.ibm.com"};ustream.vars.ownerId=35304248;ustream.vars.playerPublicPath="https:\/\/ustreamssl-a.akamaihd.net\/web-player\/ustream-player\/branches\/hlsjs-canary";ustream.vars.labelNotUUMF={"lead":"We're sorry but the format of this video is not supported anymore.","text":"You may contact the broadcaster, or continue watching the Channel by clicking ##here##."};ustream.vars.labelOffline={"lead":"\u8a72\u5167\u5bb9\u73fe\u5728\u96e2\u7dda\u3002","text":"is off-air"};ustream.vars.labelUnsupported={"text":"This video cannot be played in your browser."};ustream.vars.labelReflock={"lead":"\u8a72\u5167\u5bb9\u7121\u6cd5\u4f7f\u7528\u3002","text":"\u5c0d\u4e0d\u8d77\uff01\u7531\u65bc\u5167\u5bb9\u9650\u5236\u6211\u5011\u7121\u6cd5\u64ad\u653e\u6b64\u8996\u8a0a\u3002"};ustream.vars.labelIplock={"lead":"Content unavailable","text":"Sorry, we cannot play this video due to restrictions."};ustream.vars.labelGeolock={"lead":"Content unavailable","text":"This video is not available in your area."};ustream.vars.labelPasslock={"lead":"Password protected video","text":"Please enter password to watch","placeholder":"\u983b\u9053\u5bc6\u78bc","submit":"Enter","enterPassLink":"Enter password to watch"};ustream.vars.labelViewerHourLock={"lead":"No more viewers allowed at this moment.","text":"The size of the audience has been limited by the broadcaster and currently there are no open seats. Please check back again later."};ustream.vars.labelUnAuth={"lead":"Content unavailable","text":"We're sorry, but you don't have access to this content.","private":"This video is private."};ustream.vars.labelNoTranscoded={"lead":"Content unavailable","text":"Sorry, but this video is not available on this device.","channel":"Sorry, but this channel either does not exist or is using a bad embed code.","video":"Sorry, but this video either does not exist or is using a bad embed code."};ustream.vars.labelNoFlash={"title":"Get the latest Flash player to view this content","button":"Get Flash player"};ustream.vars.labelDefaultReject={"lead":"Content unavailable","text":"The connection was rejected by the server."};ustream.vars.labelBanReject={"lead":"Content unavailable","text":"The content was removed for violation of the Terms of Service."};ustream.vars.branchName="release-2399";ustream.vars.viewerSwf="https:\/\/ustvstaticcdn1-a.akamaihd.net\/swf\/live\/viewer:307.swf?vrsl=c:701&amp;ulbr=100";ustream.vars.rslSwf="https:\/\/ustvstaticcdn1-a.akamaihd.net\/swf\/live\/viewer.rsl:701.swf?vrsl=c:701";ustream.vars.viewerOldSwf="https:\/\/ustvstaticcdn1-a.akamaihd.net\/swf\/live\/viewer.old:29.swf?vrsl=c:701";ustream.vars.httpsViewerSwf="https:\/\/ustvstaticcdn1-a.akamaihd.net\/swf\/live\/viewer:307.swf?vrsl=c:701&amp;ulbr=100";ustream.vars.viewerQosSwf="https:\/\/ustvstaticcdn1-a.akamaihd.net\/swf\/live\/viewerqos:34.swf";ustream.vars.httpsViewerQosSwf="https:\/\/ustvstaticcdn1-a.akamaihd.net\/swf\/live\/viewerqos:34.swf";ustream.vars.qosSwf="https:\/\/ustvstaticcdn1-a.akamaihd.net\/swf\/live\/viewer.qrsl:121.swf";ustream.vars.httpsQosSwf="https:\/\/ustvstaticcdn1-a.akamaihd.net\/swf\/live\/viewer.qrsl:121.swf";ustream.vars.cId=23627444;ustream.vars.adFree=true;ustream.vars.isBff=false;ustream.vars.uumfOffAirContentVideoIds=[];ustream.vars.hashLockData=false;ustream.vars.hash=null;ustream.vars.isVerizon=false;ustream.vars.isViewerRegistrationEnabled=false;ustream.vars.hasSubscription=true;ustream.vars.isUUMF=false;ustream.vars.align=false;ustream.vars.contentType="channel";ustream.vars.isBetaChannel=false;ustream.vars.channelUrl="https:\/\/video.ibm.com\/channel\/kv6vtKvhYWt";ustream.vars.playerOneLabels={"ui":{"audio":"Audio tracks","closedCaption":"Closed Caption","none":"None","generated":"Generated","copyEmbedCode":"Copy embed code","copyId":"Copy ID","copyLink":"Copy link","defaultView":"Default view","embed":"Embed","embedCode":"Embed this video in your site using the code below:","embedCopied":"Embed code copied to clipboard","exitFullscreen":"Exit full screen","facebook":"Facebook","fullscreen":"Full screen","disabledFullscreen":"Fullscreen is not supported","idCopied":"ID copied to clipboard!","linkVideo":"Link of this video:","millions":"M","popout":"Popout","quality":"Quality","qualityAuto":"Auto","troubleshoot":{"title":"Troubleshoot playback issue","description":"Select the issue you are experiencing and create an issue ID to report it to your support team.","options":{"default":"Select issue","audio_issues":"Audio issue","closed_captioning_issue":"Closed captioning issue","bad_image_quality":"Video quality is poor","buffer":"Video starts but stops unexpectedly","blackscreen":"Video starts but goes black after a while","does_not_start":"Video playback does not start","other":"Other","otherPlaceholder":"Describe the problem"},"errors":{"noIssueSelected":"Please select issue.","noDescription":"Please describe the problem."},"create":"Create Issue ID","thanksdialog":{"title":"Your issue ID","description":"Share this ID with your support team by following the process of reporting such issues in your organization."}},"share":"Share","theaterMode":"Theater mode","thousands":"K","twitter":"Twitter","twitterLive":"I'm watching #BROADCASTER#'s live broadcast. Come join me #LINK# !","twitterVideo":"Check out this video \"#MEDIANAME#\" on @Ustream #LINK# !","videoLinkCopied":"Video link copied to clipboard","watchingNums":"#current# watching now &#149; #all# total views","contextMenu":{"channelPage":"Channel page","debugOn":"Turn on debug","debugOff":"Turn off debug","changeProvider":"Change provider","stageVideoOn":"Turn on stagevideo","stageVideoOff":"Turn off stagevideo","infoOn":"Display stats","infoOff":"Hide stats","hideSpecialItems":"Hide special items","copycidvid":"Copy cid\/vid","copyusername":"Copy username","debugConsoleOn":"Display debug console","debugConsoleOff":"Hide debug console"},"flag":{"tooltip":"Report","title":"Flag this content","text":"Please select your reason for flagging this video as inappropriate from the dropdown below. We promise to review each and every submission within 24-48 hours. <br\/><br\/> If you are a copyright owner, or are authorized to act on behalf of one or authorized to act under any exclusive right under copyright, please do not flag this content but instead report alleged copyright violations on our <a href=\"\/copyright-policy\" target=\"_blank\">DMCA notice form<\/a>","button":"Flag","cancel":"Cancel","defaultReason":"- Select the reason to report this video for -","success":"Thank you for notifying us."},"lockScreens":{"refererLock":{"maxViewers":"The size of the audience has been limited by the broadcaster and currently there are no open seats. Please check back again later.","pageLock":"This stream is currently unavailable on this domain at the broadcaster's request","blacklistLock":"Sorry! We cannot play this video due to content restrictions.","embedLimit":"The size of the audience has been limited by the broadcaster and currently there are no open seats. Please check back again later.","multilevelEmbed":"This EMBED can not work because it is embedded under an extra Iframe. You can still watch on USTREAM by clicking OK."},"hashLock":{"invalidHash":"The Video Player was not able to find valid authentication information. If the problem persist, please alert your tech support team."}},"poll":{"notification":{"title":"Take poll"},"success":"Thank you for taking our poll.","finished":"Sorry the poll ended."},"browserold":{"title":"Your browser is out of date.","link":"Update your browser","label":"to continue watching videos on this page."}}};ustream.vars.qos_player={"enabled":"1","percent":"100","cid":"","cidpercent":"100","exceptionCids":"13335102,18500911"};ustream.vars.mte_html_ui={"enabled":"1","percent":"100","exceptionCids":"20303980,20303982,20044086,20304086,20317970,21625933,19457401,19457405,19457242,19457406,19463639,14058735"};ustream.vars.mte_html_playback={"omegaEnabled":"1","forceCids":[0],"exceptionCids":[0]};ustream.vars.initialQuality=null;ustream.vars.forcedQuality=null;ustream.vars.mte_mobile_ecdn_enabled=false;ustream.vars.pageId="Embed_Index2";ustream.vars.pageUrl="\/embed\/23627444?volume=0&autoplay=true";ustream.vars.loggedIn=false;ustream.vars.loggedInUserId=0;ustream.vars.sessionId=false;ustream.vars.staticUrl="https:\/\/ustvstaticcdn1-a.akamaihd.net\/";
+</script>			</head>
+	<body id="Embed_Index2"
+	      class="lang-zh-TW "
+		  data-layout="embed">
+		
+		<div id="PlayerOne" class="ui-hidden">
+			<div id="EmbedViewer" >
+				<div id="Loading" class="loading hidden"><div></div></div>
+				<div id="ViewerContainer" class="viewer"></div>
+				<div class="cover"></div>
+			</div>
+			<div id="ComponentsContainer"></div>
+			<div id="ScreensContainer"></div>
+			<div id="OverlaysContainer"></div>
+			<span class="is-retina"></span>
+			<iframe id="CorsFrame"
+			        data-src="https://ustream.tv/corsCommunicatorFrameDirect"
+			        width="0" height="0">
+		    </iframe>
+		</div>
+
+
+		<script type="text/javascript" src="https://ustreamssl-a.akamaihd.net/web-player/ustream-player/branches/hlsjs-canary/js/ustream-player.min.js"></script>
+				<script type="text/javascript">window.getWebpackBasePath=function () {return "https://ustvstaticcdn2-a.akamaihd.net/packed/l10n/zh_tw/webpack/"}</script>
+<script type="text/javascript" src="https://ustvstaticcdn2-a.akamaihd.net/packed/l10n/zh_tw/webpack/player_embed:16279006661.js"></script>
+	</body>
+</html>
+

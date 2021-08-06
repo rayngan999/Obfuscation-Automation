@@ -1,0 +1,1 @@
+fxratesJsonpCallback({"fromCcyRound":2,"toCcyRound":2,"fromCcyn":"US Dollar","toCcyn":"Hong Kong Dollar","version":1,"rate":8.38159,"quoteId":74992439,"fromCcy":"USD","toCcy":"HKD","expiryTime":"2021-08-03T14:00:00Z"});

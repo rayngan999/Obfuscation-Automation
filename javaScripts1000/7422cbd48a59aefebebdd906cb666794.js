@@ -1,0 +1,1 @@
+MoatHandleJsonpResponse_95451258({"nu": 511722, "ob": 247010, "lt": 943145, "nm": 379777, "c": ["gs_politics", "moat_safe", "gs_covid19", "gs_education_misc", "gs_education"], "ct": 0, "g": 0.002241849899291992, "d": 5, "r": 14688505944, "pcode": "frieslandcampinaglobaldcmvideo533512289268", "z": 4, "b": true, "h": performance.now()})

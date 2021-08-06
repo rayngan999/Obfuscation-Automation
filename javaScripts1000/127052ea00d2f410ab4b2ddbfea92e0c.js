@@ -1,0 +1,1 @@
+"use strict";document.querySelectorAll("[elevio=open]").forEach((function(e){e.addEventListener("click",(function(t){window._elev?(t.preventDefault(),window._elev.open()):location.href={rico:"https://www.rico.com.vc/atendimento",clear:"https://corretora.clear.com.br/atendimento"}[e.dataset.elevioBrand]}))}));

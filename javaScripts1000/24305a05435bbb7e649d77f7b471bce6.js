@@ -1,0 +1,1 @@
+var apaCountClicks=function(a){};

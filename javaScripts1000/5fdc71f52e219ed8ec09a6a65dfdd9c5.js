@@ -1,0 +1,2 @@
+define("services/pageVisibilityHelper",["FR","jquery"],function(i,e){var n,d,t=function(){document[n]?i.$el.window.trigger("page-visibility-hidden"):i.$el.window.trigger("page-visibility-shown")},o=function(){e(document).on(d,t)};e(function(){return void 0!==document.hidden?(n="hidden",d="visibilitychange"):void 0!==document.msHidden?(n="msHidden",d="msvisibilitychange"):void 0!==document.webkitHidden&&(n="webkitHidden",d="webkitvisibilitychange"),void o()})});
+//# sourceMappingURL=pageVisibilityHelper.js.map

@@ -1,0 +1,2 @@
+(this.clientJsonpCallback=this.clientJsonpCallback||[]).push([[27],{307:function(e,t,n){"use strict";n.r(t);var r=n(7),a=n(12),i=n(1).a.getWindow(),s=i.__internal,l=s.strevdaRuntimeProps,o=s.strevdaRuntimeVersion;delete i.__internal.strevdaRuntimeProps,delete i.__internal.strevdaRuntimeVersion,t.default=function(){return Object(a.a)({name:"strevda-runtime",version:o},(function(e){var t=e.props;(0,e.hydrate)(Object(r.a)(Object(r.a)({},t),l))}))}}}]);
+//# sourceMappingURL=27.30a97f3d.chunk.js.map

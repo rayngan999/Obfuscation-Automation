@@ -1,0 +1,1 @@
+amp._rc("7acdeaba-38ec-4dc5-adc2-728708c13c59","video",{"auto-play":false,"control-bar":true,"loop":false,"quality-control":false,"css-selector":"Default","thumb":"plp"});

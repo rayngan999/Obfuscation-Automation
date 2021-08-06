@@ -1,0 +1,2 @@
+define("components/featuredContentElement",["FR","jquery","services/utilities"],function(e,t,n){var o={},i=function(){o.featuredContentElement=t(".featuredContentElement"),o.featuredContentVideo=t(".featuredContentElement__video"),o.featuredContentVideo.off().on("click",function(){e.$el.window.trigger("youtube-video-modal-open",[{videoUrl:this.getAttribute("data-video-url")}])}),n.supportClipPath(o.featuredContentElement)};t(function(){return i()})});
+//# sourceMappingURL=featuredContentElement.js.map

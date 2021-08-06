@@ -1,0 +1,1 @@
+/**/vglnk_16279566946267("krvfdvd401001zxg000DL7evs5lj896xe",2000,[],[],{"debug":false,"dataObserver":false,"plugins":{"partnerIntegration":{"sync_type":"script","log_links":false}},"dynamic":true,"platform":"wppr"},[]);

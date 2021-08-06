@@ -1,0 +1,1 @@
+window.bluebillywig.adBlockDetected = false;

@@ -1,0 +1,2 @@
+//tealium universal tag - utag.sync ut4.0.202107150748, Copyright 2021 Tealium.com Inc. All Rights Reserved.
+document.write('<script type="text/javascript" src="//service.maxymiser.net/cdn/swissCOM/js/mmapi.js"></scr'+'ipt>');

@@ -1,0 +1,1 @@
+/**/vglnk_16279431815189({"results":{"facebook.com":{},"itunes.apple.com":{},"linkedin.com":{}}});

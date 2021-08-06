@@ -1,0 +1,2 @@
+define("services/sessionHelper",[],function(){var e=function(){return window&&window.sessionStorage};return{get:function(n){if(e()&&n){var t=sessionStorage.getItem(n);return null===t?void 0:(t=JSON.parse(t)).data}},set:function(n,t){return!(!e()||void 0===n||void 0===t||(sessionStorage.setItem(n,JSON.stringify({data:t})),0))},remove:function(n){return!(!e()||!n||(sessionStorage.removeItem(n),0))}}});
+//# sourceMappingURL=sessionHelper.js.map

@@ -1,0 +1,4 @@
+(function () {
+                    window["_securedTouchToken"] = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjoiYVkwVDRpLzN1MFUzcVZiMkllZVJDVEtuN0hrOGdjeHJlbEFheUdTRTB4djl0STN6MnVkaUpaWlFKT3ZyNjJ5cDhkc1d5dXd4UmJNYWVZN0h3c0ZpcmQrYlg0eElCenNMZjlNcXBOb3BlcUFiVEFyd05SWTdTMlY1VVRZNmdzeHNQLy96RlNDeGR6aWJUcmxUVHBXRjY3VDNjZTFQWlFuUWhvWFNKakV2SHNWZDIwQUtBbE5ySFpSMjhGOGJ4NUw1ajRtQ2dhR0J6dGFyZ1IzakNnL3JpMktuZ2t2Zkh6T2sxblA5MkdsZitZNEtPNitjci9WVTBNME04TmhPZTV0RlBaNjExUzI5QVZDNi9wYkhWS1laQVRob0ZKR0lhVktuajVBb3VNM2dFMHJUZnorc1hwdVArOGZSQWJQMnZDVEQiLCJpYXQiOjE2Mjc5MjU0OTAsImV4cCI6MTYyOTEzNTA5MH0.Ctnv10Nw9AHKrq6sNDMou-sQqd-ASM8WbBeODCSafEo';
+                    document.dispatchEvent(new CustomEvent('SecuredTouchTokenReadyEvent'));
+                })();

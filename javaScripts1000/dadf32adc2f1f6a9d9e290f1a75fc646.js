@@ -1,0 +1,8 @@
+<html>
+	<head>
+		<title></title>
+		<style>* {margin: 0; padding: 0; font-size: 100%;} .spot-img {display: block!important; width: 100%!important; height: auto!important;}</style>
+		<script>(function(e, t, n, a, c, i) { e.globicaObjectName = a, e[a] = e[a] || function() { (e[a].q = e[a].q || []).push(arguments); }, e[a].i = 1 * new Date(), c = t.createElement("script"), i = t.getElementsByTagName("script")[0], c.async = 1, c.src = n, i.parentNode.insertBefore(c, i); })(window, document, "https://api.trwl1.com/ascripts/gcrt.js", "gl"); gl('config', {trackerDomain: 'api.trwl1.com'}); gl('params', { "networkname":"trwl-tds", "pagetype": "IFRAME", "templatetype":"desktop", "locale": "en", "zone":"NONAUTHORIZED", "user_status": "GUEST" }); gl('send', 'pageview', {"impressionId":"7689f448-f3f1-11eb-8625-36dc7009902d","spotId":"21997"}); </script>
+	</head>
+    <body><iframe src="//static.javhd.com/h5/files/14422/300x250.html?targetUrl=http%3A%2F%2Fr.trwl1.com%2Fc1%2F11fdec04-a956-4b6e-817d-a06c6adfa0f2%3Fcv1%3D83e90272-d65a-481c-86e4-26e75ef86b4d%26cv10%3DadxadAK_SSP_300x250%26cv2%3Db20130bbb9e77ffad6188ccb5bba17e3%26cv3%3Ddesktop%26cv4%3D5ef1e67b61d6e208434509b2%26cv5%3D5ef1e57b61d6e278902fad65%26cv6%3Den%26cv7%3Djavsubtitle.co%26cv8%3DFirefox%26cv9%3D7a02c53fe0207b420ebb4881c5d00992%26externalId%3D83e90272-d65a-481c-86e4-26e75ef86b4d%26p%3DeyJiIjoyNzQ3NDcsImJoIjoyNTAsImJ3IjozMDAsImYiOjEsIm8iOjEsInAiOjEsInMiOjIxOTk3fQ" frameborder="0" border="0" scroll="no" scrolling="no" width="300px" height="250px" style="border: 0px; overflow: hidden !important;"></iframe></body>
+</html>

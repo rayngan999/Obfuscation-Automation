@@ -1,0 +1,1 @@
+"use strict";window.freedom.cookie={get:function(e){var o=document.cookie.match("(^|;) ?"+e+"=([^;]*)(;|$)");return o?o[2]:null},del:function(e){document.cookie=e+"=;path=/;expires="+-1}};

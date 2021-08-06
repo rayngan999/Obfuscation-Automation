@@ -1,0 +1,1 @@
+_bsap.interpret_json({"zones":[{"id":"1289069","premium":"CYBDCKY","filters":[],"filterby":[],"nads":1},{"id":"1296817","premium":"CYBDC2T","filters":[],"filterby":[],"nads":1},{"id":"1299175","premium":"CYBDC2V","filters":[],"filterby":[],"nads":1},{"id":"1303340","premium":"C6BDTKJI","filters":[],"filterby":[],"nads":1}]});

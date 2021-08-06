@@ -1,0 +1,1 @@
+Krux.ns.lefigaro.kxjsonp_optOutCheck({"status":200,"body":{}})

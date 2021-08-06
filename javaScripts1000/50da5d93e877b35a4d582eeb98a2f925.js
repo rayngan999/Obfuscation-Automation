@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/92c238f848e3/0fc93359920c/3075ca68ec4b/RC0abed278d349479c9891fd66d6486ca6-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/92c238f848e3/0fc93359920c/3075ca68ec4b/RC0abed278d349479c9891fd66d6486ca6-source.min.js', "_satellite.getVar(\"s_tracking_enabled\")&&s_oTrackPage&&s_oTrackPage({s_oTrackingSource:\"Page load\"});");

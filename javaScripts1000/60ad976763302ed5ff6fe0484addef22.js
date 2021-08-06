@@ -1,0 +1,1 @@
+angular.callbacks._1( {"disabled":0,"encoded_guid":"Z3VpZC5leHBpcmVkLjE2MjI4OTM4MTEyMDU%253D%253F%253D","wxh":"2","subdomain":"dal040.cams.com","stream_id":"678317","online":"1","subdomain_euro":"","mpp":"69.165.102.40","server":"69.165.110.143","stream_name":"TaylorSole","mpp_euro":null,"exclusive":null} )

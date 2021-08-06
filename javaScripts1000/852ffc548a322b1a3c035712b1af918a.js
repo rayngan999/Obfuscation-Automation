@@ -1,0 +1,1 @@
+Bootstrapper.bindImmediate(function(){Bootstrapper.bindImmediate(function(){var Bootstrapper=window["Bootstrapper"];var ensightenOptions=Bootstrapper.ensightenOptions;Bootstrapper.on("mouseup",'.bodyContainer [title\x3d"Register now"]',function(){Bootstrapper.ensEvent.trigger("Register Now Button - Bonus Avios",this)},true)},-1,-1)},-1,-1);

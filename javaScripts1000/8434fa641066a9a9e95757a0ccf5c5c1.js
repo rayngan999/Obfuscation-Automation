@@ -1,0 +1,1 @@
+/**/window['umengMessageGetTicketData']({"code":999999001,"msg":"æ¨çè´¦å·å é¿æ¶é´æªæä½ï¼ç»å½ä¿¡æ¯å·²å¤±æï¼è¯·éæ°ç»å½","sCode":999999001,"sMsg":"UMPLUS_UC_TOKENç¼ºå¤±","success":false,"data":null,"timestamp":1627932691647,"traceId":"212cb41916279326916458971e9d74"});

@@ -1,0 +1,1 @@
+routerPages.controller("twoSectionTemplateController",["$document","pamAjaxService","deviceJs","tqsProfilePopup","templatesSharedLogic","beResponseDataService",function(n,t,i,r,u,f){var e=this;e.init=function(n){f.init(n);u.init();e.captchaEnabled=n.beAdditionalDetails.captchaEnabledAtStart}}])

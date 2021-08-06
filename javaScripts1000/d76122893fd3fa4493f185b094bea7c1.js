@@ -1,0 +1,2 @@
+var cms=window.cms||{};cms.ns=function(namespace){var parts=namespace.split(".");var last=window;for(var i=0;i<parts.length;i++){last=last[parts[i]]||(last[parts[i]]={})}};
+//# sourceMappingURL=//cms.cdn.vpsvc.com/vistacore/js/Common/ns_min.js-hced9e1d2950fd1987b7c5dd1ab2e340e2.map

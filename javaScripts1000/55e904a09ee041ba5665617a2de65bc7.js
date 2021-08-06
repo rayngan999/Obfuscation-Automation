@@ -1,0 +1,1 @@
+/**/__twttr.callbacks.tl_i3_list_MakorRishon_list_new({"headers":{"status":200,"maxPosition":"1422219759383371776","minPosition":"1422219759383371776","xPolling":30,"time":1627920020},"body":"\n"});

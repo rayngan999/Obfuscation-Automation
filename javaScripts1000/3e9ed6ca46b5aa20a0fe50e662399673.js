@@ -1,0 +1,1 @@
+/**/ typeof window.VidyardV4.jsonp.details_djwQvYJbDtmJfG7gdJBeet.done === 'function' && window.VidyardV4.jsonp.details_djwQvYJbDtmJfG7gdJBeet.done({});

@@ -1,0 +1,3 @@
+/*! classnames 2017-05-23 */
+
+!function(){"use strict";function a(){for(var c=[],d=0;d<arguments.length;d++){var e=arguments[d];if(e){var f=typeof e;if("string"===f||"number"===f)c.push(e);else if(Array.isArray(e))c.push(a.apply(null,e));else if("object"===f)for(var g in e)b.call(e,g)&&e[g]&&c.push(g)}}return c.join(" ")}var b={}.hasOwnProperty;"undefined"!=typeof module&&module.exports?module.exports=a:"function"==typeof define&&"object"==typeof define.amd&&define.amd?define("classnames",[],function(){return a}):window.classNames=a}();

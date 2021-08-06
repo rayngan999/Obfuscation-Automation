@@ -1,0 +1,2 @@
+define("components/footer",["FR","jquery"],function(o,n){var r={},t=function(){r.footerAccordianAnchor=n(".footer__panel__body"),r.footerResortsAccordianAnchor=n(".footer__panel__body--resorts"),r.footerAccordianAnchor.on("shown.bs.collapse",function(){n(this).find(".footer__panel__list").first().find(".footerlink").focus()}),r.footerResortsAccordianAnchor.on("shown.bs.collapse",function(){n(this).find(".footer__panel__list").first().find(".footerlink").focus()})};n(function(){return t()})});
+//# sourceMappingURL=footer.js.map

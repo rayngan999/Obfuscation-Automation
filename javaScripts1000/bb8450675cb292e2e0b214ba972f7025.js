@@ -1,0 +1,1 @@
+"use strict";!function(){var n;(n=function(){for(var n=1<window.location.href.split("?").length?window.location.href.split("?")[1]:null,i=n?n.split("&"):[],t=0,o="";i.length>t;)0===i[t].indexOf("campaign=")&&(o=i[t].split("campaign=")[1]),t++;return o}())&&(window.document.cookie="campaignCode="+n+"; path=/;")}();

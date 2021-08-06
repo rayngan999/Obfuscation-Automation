@@ -1,0 +1,8 @@
+<html>
+	<head>
+		<title></title>
+		<style>* {margin: 0; padding: 0; font-size: 100%;} .spot-img {display: block!important; width: 100%!important; height: auto!important;}</style>
+		<script>(function(e, t, n, a, c, i) { e.globicaObjectName = a, e[a] = e[a] || function() { (e[a].q = e[a].q || []).push(arguments); }, e[a].i = 1 * new Date(), c = t.createElement("script"), i = t.getElementsByTagName("script")[0], c.async = 1, c.src = n, i.parentNode.insertBefore(c, i); })(window, document, "https://api.trwl1.com/ascripts/gcrt.js", "gl"); gl('config', {trackerDomain: 'api.trwl1.com'}); gl('params', { "networkname":"trwl-tds", "pagetype": "IFRAME", "templatetype":"desktop", "locale": "en", "zone":"NONAUTHORIZED", "user_status": "GUEST" }); gl('send', 'pageview', {"impressionId":"11ba4777-f3e4-11eb-8625-36dc7009902d","spotId":"23385"}); </script>
+	</head>
+    <body><a href="http://r.trwl1.com/c1/8df0cd2c-424c-4a57-bcc6-f59235bf2c74?cv1=10be0dab-f3e4-11eb-b434-f29171a0075e&cv10=ADxAD-dating-_%28%2Bex%29-web-HK-300x250%28ifme%29&cv2=b20130bbb9e77ffad6188ccb5bba17e3&cv3=desktop&cv4=60e5b95f61d6e209f3347844&cv5=60e5b94961d6e208943a1dc6&cv6=en&cv8=Firefox&cv9=5ecf107e61d6e23525644de2&p=eyJiIjoyNzQ4ODIsImJoIjoyNTAsImJ3IjozMDAsImYiOjEsIm8iOjcsInAiOjEsInMiOjIzMzg1fQ" target="_blank"><img class="spot-img" src="https://storage.adxadtracker.com/wb/6nq8l/15j/lmr/de/ee91b5abe988e06a69f2d00b.gif" width="300px" height="250px"></a></body>
+</html>

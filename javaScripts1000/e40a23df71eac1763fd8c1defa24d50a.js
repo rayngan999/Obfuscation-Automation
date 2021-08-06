@@ -1,0 +1,1 @@
+var is_clck = 0;

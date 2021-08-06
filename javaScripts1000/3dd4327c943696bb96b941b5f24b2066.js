@@ -1,0 +1,1 @@
+importScripts('https://cdn.pushnews.eu/push/pushnews-sw-raw.js');

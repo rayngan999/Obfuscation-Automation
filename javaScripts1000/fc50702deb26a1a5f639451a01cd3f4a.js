@@ -1,0 +1,1 @@
+Krux.ns.dowjones.kxjsonp_consent_set_1({"status":200,"body":{"dt":"kxcookie","settings":{"dc":1,"al":1,"tg":1,"cd":1,"sh":1,"re":1},"pr":"global","code":"success","idt":"device","idv":"kppidff_ORzd-Hcf","request_id":"15BHuGhTGYYfyWGmAe4jjd","timestamp":1627961462}});

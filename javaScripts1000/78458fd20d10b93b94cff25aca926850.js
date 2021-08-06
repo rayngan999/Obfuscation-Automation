@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/aaa144e582c6/03f800b52437/c8d0f3596000/RCa2736448f0544ab6bb18ccb0345d9f91-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/aaa144e582c6/03f800b52437/c8d0f3596000/RCa2736448f0544ab6bb18ccb0345d9f91-source.min.js', "window.FABuild||window.mobileApp||fbq(\"track\",\"ViewCategory\",{content_category:_satellite.getVar(\"Product_Category_List\"),content_ids:_satellite.getVar(\"Product_Code_Array\"),content_type:\"product_group\",currency:_satellite.getVar(\"Cookie_E4X_CURRENCY\")});");

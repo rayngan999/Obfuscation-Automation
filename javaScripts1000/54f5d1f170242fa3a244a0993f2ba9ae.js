@@ -1,0 +1,2 @@
+define("services/searchHistoryHelper",["FR","services/localStorageHelper"],function(e,r){var t,i="search-history",s=[],n=4;return(t=r.get(i))&&(s=t),{addHistory:function(t){(t=(t||"").trim())&&((s=_.reject(s,function(e){return e===t})).unshift(t),s=s.slice(0,n),r.set(i,s),e.$el.window.trigger("search-history-update"))},getHistory:function(){return s}}});
+//# sourceMappingURL=searchHistoryHelper.js.map

@@ -1,0 +1,1 @@
+window.dpmPixels[0].updateUserVariable({"country_code":"344","city":"fanling","latitude":"22.49","ipAddress":"119.236.101.168","appnexusId":"7209037865608114344","dma":"-1","uuid":"d2b5e2f9045638713ff704c83ddba12d86d65f9f","longitude":"114.14"});

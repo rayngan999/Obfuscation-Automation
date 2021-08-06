@@ -1,0 +1,1 @@
+/**/vglnk_16279577657589({"results":{"facebook.com":{},"amazon.com":{},"amzn.to":{}}});

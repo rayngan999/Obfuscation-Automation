@@ -1,0 +1,1 @@
+/**/embedded_svc.liveAgentAPI.connection.handlePing({"messages":[{"type":"Settings", "message":{"prefixKey":"b9c78bbfa41252461db07b1751193e9aa5dbfb17","contentServerUrl":"https://1hdkq.la4-c2-ph2.salesforceliveagent.com/content","pingRate":50000.0,"buttons":[{"language":"en_US","type":"Standard","id":"5733u000000Q0Gk","isAvailable":true}]}}]});

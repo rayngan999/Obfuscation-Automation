@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/b226952d5677/5242dd221aea/f539ab7301d3/RCf96dd80ec3784de4adcc30e76ebf323b-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/b226952d5677/5242dd221aea/f539ab7301d3/RCf96dd80ec3784de4adcc30e76ebf323b-source.min.js', "var t=setInterval(function(){\"undefined\"!=typeof Gladly.on&&Gladly.on(\"conversation:started\",function(n){console.log(n),s.events=s.linkTrackEvents=\"event40\",s.tl(this,\"o\",\"Chat: Conversation Started\")}),\"undefined\"!=typeof Gladly.on&&clearInterval(t)},200);");

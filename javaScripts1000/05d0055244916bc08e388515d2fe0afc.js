@@ -1,0 +1,1 @@
+_gfp_s_({"_cookies_":[{"_value_":"ID=3fee9f93ba95395e-229175ada5ca00f1:T=1627939523:RT=1627939523:S=ALNI_MYGJI-keZfu7pH7GmFzgItPB3iZRg","_expires_":1661635523,"_path_":"/","_domain_":"2banh.vn"}]});

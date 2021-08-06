@@ -1,0 +1,1 @@
+Cube("datav:/npm/simple-swizzle/0.2.2",["datav:/npm/is-arrayish/0.3.1"],function(a,b,c){var d=c("datav:/npm/is-arrayish/0.3.1"),e=Array.prototype.concat,f=Array.prototype.slice,g=a.exports=function(a){for(var b,c=[],g=0,h=a.length;g<h;g++)b=a[g],d(b)?c=e.call(c,f.call(b)):c.push(b);return c};return g.wrap=function(a){return function(){return a(g(arguments))}},a.exports});

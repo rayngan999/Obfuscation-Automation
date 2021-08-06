@@ -1,0 +1,1 @@
+TRC.getRTUS({"status":"Unknown","userid":""});

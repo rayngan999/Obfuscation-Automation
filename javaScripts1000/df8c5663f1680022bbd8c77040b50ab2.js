@@ -1,0 +1,5 @@
+var gfrM=gfrM||{};gfrM.FloatingAd=gfrM.FloatingAd||{};gfrM.FloatingAd.isFloatingUp=false;gfrM.FloatingAd.isFloatingClosedByUser=false;var isFirstPageLoad=true;function showFloating(){if(!isFirstPageLoad){document.getElementById("sticky-target").style.display="block";document.body.classList.add("ad-five-fixed");setIsFloatinUp(true);}else{isFirstPageLoad=false;}}
+function setIsFloatinUp(value){gfrM.FloatingAd.isFloatingUp=value;}
+function isFloatingUp(){return gfrM.FloatingAd.isFloatingUp;}
+gfrM.FloatingAd.Close=function(e){if(isFloatingUp()===true){setIsFloatinUp(false);document.getElementById("sticky-target").style.display="none";}
+if(typeof e!=="undefined"){e.preventDefault();}};gfrM.FloatingAd.Show=function(e){if(isFloatingUp()===false){setIsFloatinUp(true);document.getElementById("sticky-target").style.display="block";if(typeof e!=="undefined")e.preventDefault();}};

@@ -1,0 +1,1 @@
+(function(a,t){t.behaviors.phantomCommonLinks={attach:function(t,e){a('a.phone-link-cke, a.email-link-cke',t).once('phantomCommonLinks').each(function(){var t=a(this).attr('href');switch(a(this).attr('class')){case'phone-link-cke':a(this).attr('href','tel:'+t);break;case'email-link-cke':a(this).attr('href','mailto:'+t);break}})}}})(jQuery,Drupal);

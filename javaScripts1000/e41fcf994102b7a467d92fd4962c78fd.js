@@ -1,0 +1,1 @@
+angular.callbacks._3( {"disabled":0,"encoded_guid":"Z3VpZC5leHBpcmVkLjE2MjI4OTM4MTEzNTI%253D%253F%253D","wxh":"2","subdomain":"dal038.cams.com","stream_id":"750357","online":"1","subdomain_euro":"","mpp":"69.165.102.38","server":"99.192.203.38","stream_name":"AprilRusso","mpp_euro":null,"exclusive":null} )

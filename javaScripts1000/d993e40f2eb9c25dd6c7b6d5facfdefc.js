@@ -1,0 +1,16 @@
+var var_h39qw9qf0w = '';
+var_h39qw9qf0w += "<"+"div id=\"adn-419\" class=\"adnSpot2\" style=\"width:300px;height:100px;\">\n";
+var_h39qw9qf0w += "<"+"script type=\"text/javascript\">\n";
+var_h39qw9qf0w += "(function (parentNode) {\n";
+var_h39qw9qf0w += "var adnOpt = {\"id\": 419, \"pid\": 18, \"sid\": 60, \"type\": 7, \"width\": 300, \"height\": 100};\n";
+var_h39qw9qf0w += "var adn = document.createElement(\"script\");\n";
+var_h39qw9qf0w += "adn.type = \"text/javascript\";\n";
+var_h39qw9qf0w += "adn.async = true;\n";
+var_h39qw9qf0w += "adn.src = \"//a.medfoodspace.com/static?r=\" + Math.floor(Math.random() * 99999999) +\n";
+var_h39qw9qf0w += "\"&id=\" + adnOpt.id + \"&pid=\" + adnOpt.pid + \"&sid=\" + adnOpt.sid +\n";
+var_h39qw9qf0w += "\"&tid=\" + adnOpt.type + \"&w=\" + adnOpt.width + \"&h=\" + adnOpt.height;\n";
+var_h39qw9qf0w += "parentNode.appendChild(adn);\n";
+var_h39qw9qf0w += "})(document.getElementsByTagName(\"script\")[document.getElementsByTagName(\"script\").length - 1].parentNode);\n";
+var_h39qw9qf0w += "<"+"/script>\n";
+var_h39qw9qf0w += "<"+"/div>\n";
+document.write(var_h39qw9qf0w);

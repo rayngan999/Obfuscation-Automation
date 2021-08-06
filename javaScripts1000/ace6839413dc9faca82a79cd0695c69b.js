@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{142:function(e,o,n){"use strict";Object.defineProperty(o,"__esModule",{value:!0}),o.default=function(){var e=window.optimizely.get("custom/fredhopperIntegrator");if(e){var o=e.campaignDecisions;o.length&&(document.cookie="mgvmvary="+o.join("|")+"; path=/;")}}}}]);

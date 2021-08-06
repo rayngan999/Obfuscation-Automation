@@ -1,0 +1,3 @@
+require(["jquery"],function($){$(document).ready(function(){$(".search-toggler .advance-search").click(function(){$(".search-wrapper #search-content, .search-wrapper .advance-search-field, .mobile-search-wrapper .advance-search-field, .mobile-search-wrapper .mobile-search-form-container").toggleClass("hide");});$(".search-toggler .drop-down-search").click(function(){$(".search-toggler .drop-down-search").toggleClass("hide");if($(".toggle-advance-search").val().trim()=="Advance Search"){$(".toggle-advance-search").val("Search");}
+else{$(".toggle-advance-search").val("Advance Search");}
+$(this).addClass("hide");});})})

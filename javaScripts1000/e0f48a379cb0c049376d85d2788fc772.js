@@ -1,0 +1,2 @@
+define("services/localStorageHelper",["services/browserStorageHelper"],function(e){function r(){return e.storageAvailable("localStorage")}return{remove:function(e){return!(!e||!r())&&(window.localStorage.removeItem(e),!0)},set:function(e,t){return!!(e&&t&&r())&&(window.localStorage.setItem(e,JSON.stringify({data:t})),!0)},get:function(e){if(e&&r()){var t=window.localStorage.getItem(e);return null===t?void 0:(t=JSON.parse(t)).data}}}});
+//# sourceMappingURL=localStorageHelper.js.map

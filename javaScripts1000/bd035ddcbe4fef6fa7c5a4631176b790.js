@@ -1,0 +1,1 @@
+angular.callbacks._1( {"disabled":0,"encoded_guid":"Z3VpZC5leHBpcmVkLjE2MjI4OTM4MTA5Njg%253D%253F%253D","wxh":"2","subdomain":"dal026.cams.com","stream_id":"787747","online":"1","subdomain_euro":"","mpp":"69.165.102.26","server":"69.165.110.140","stream_name":"KyraMyriam","mpp_euro":null,"exclusive":null} )

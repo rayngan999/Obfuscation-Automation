@@ -1,0 +1,1 @@
+ï»¿!function(){try{var e=document.createElement("img");e.src="https://logg4u.cnnd.vn/collect?dl="+encodeURIComponent(location.href)+"&t="+(new Date()).getTime(),e.style="display: none",e.setAttribute("width","0"),e.setAttribute("height","0"),document.body.appendChild(e)}catch(e){console.warn(e.message)}}();

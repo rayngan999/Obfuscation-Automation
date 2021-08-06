@@ -1,0 +1,1 @@
+angular.callbacks._1( {"disabled":0,"encoded_guid":"Z3VpZC5leHBpcmVkLjE2MjI4OTM4MTEyMDU%253D%253F%253D","wxh":"2","subdomain":"dal034.cams.com","stream_id":"342894","online":"1","subdomain_euro":"","mpp":"69.165.102.34","server":"99.192.203.41","stream_name":"PrettyCurls","mpp_euro":null,"exclusive":null} )

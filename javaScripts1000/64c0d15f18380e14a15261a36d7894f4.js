@@ -1,0 +1,1 @@
+jsonFeed({"country":"HK","state":"HCW","stateName":"Central and Western District","zipcode":"","timezone":"Asia/Hong_Kong","latitude":"22.29080","longitude":"114.15010","city":"Central","continent":"AS"});

@@ -1,0 +1,1 @@
+Microsoft.Maps.NetworkCallbacks.f_logCallbackRequest({"sessionId":"Aj1sm1I3XW8nqaiWlofPncexPgk6MXazRDyu6soqJ56oidisEwZR_nHmOXC4i3XT","authenticationResultCode":"ValidCredentials","sessionIdCreationTime":"8/2/2021 6:09:38 PM +00:00","sessionIdExpirationTime":"8/4/2021 6:09:38 PM +00:00"})

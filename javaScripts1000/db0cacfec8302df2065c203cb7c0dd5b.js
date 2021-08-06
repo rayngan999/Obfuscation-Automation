@@ -1,0 +1,2 @@
+(this.webpackJsonpreact_customer=this.webpackJsonpreact_customer||[]).push([[233],{2395:function(G,_,A){"use strict";A.r(_);var a=A(844),t=A.n(a),e=A(56);e.a.GOOGLE_TAG_MANAGER_ID&&t.a.initialize({gtmId:e.a.GOOGLE_TAG_MANAGER_ID,auth:e.a.GOOGLE_TAG_MANAGER_AUTH,preview:e.a.GOOGLE_TAG_MANAGER_PREVIEW})}}]);
+//# sourceMappingURL=tagManager_initialize.1ebe99e7.chunk.js.map

@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fsimulateur-dentaire","\u002Fsimulateur-optique","\u002F404","\u002Fold-browser","\u002F[lang]\u002F[[...slug]]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

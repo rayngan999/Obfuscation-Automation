@@ -1,0 +1,1 @@
+var bt_data={all:"kenalice.tw/blog/post/wifi-rental".split(" "),inread:"kenalice.tw/blog/post/43005764 kenalice.tw/blog/post/40965490 kenalice.tw/blog/post/41598965 kenalice.tw/blog/post/global-wifi kenalice.tw/blog/post/wifi-rental kenalice.tw/blog/post/cbacard".split(" "),home:"".split(" ")};

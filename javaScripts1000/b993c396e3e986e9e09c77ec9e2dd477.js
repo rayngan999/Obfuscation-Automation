@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/aaa144e582c6/03f800b52437/c8d0f3596000/RCf2497316ebdc48ed82f9c73af9235c3c-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/aaa144e582c6/03f800b52437/c8d0f3596000/RCf2497316ebdc48ed82f9c73af9235c3c-source.min.js', "pageData.eventData={name:\"medalliaSurveyAbandoned\"},_satellite.track(\"pageEvent\");");

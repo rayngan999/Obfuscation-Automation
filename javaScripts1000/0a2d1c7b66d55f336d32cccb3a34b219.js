@@ -1,0 +1,1 @@
+try{ ___sc151700.invoke("ckzusz_nputpquwq", {"2":true,"sr":"https:\/\/www.inbank.it\/favicon.ico"}); } catch(e) { }

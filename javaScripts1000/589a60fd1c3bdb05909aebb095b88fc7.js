@@ -1,0 +1,1 @@
+!function(){var t=window.document.createElement("iframe"),e=document.currentScript;if(e){var r=e.getAttribute("data-pixel-id"),i=document.createElement("a");i.href=e.src,t.setAttribute("height","0"),t.setAttribute("width","0"),t.setAttribute("frameborder","0"),t.setAttribute("src",i.protocol+"//"+i.hostname+"/pixel.html?pixel_id="+r),e.parentNode.appendChild(t)}}();

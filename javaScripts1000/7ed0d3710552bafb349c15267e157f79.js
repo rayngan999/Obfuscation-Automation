@@ -1,0 +1,1 @@
+Krux.ns.britishairwaysuk.kxjsonp_consent_set_1({"status":200,"body":{"dt":"kxcookie","settings":{"dc":1,"al":1,"tg":1,"cd":1,"sh":0,"re":1},"pr":"gdpr","code":"success","idt":"device","idv":"k1pidff_v1st_37AA12BA81448388","request_id":"15BRD7LKBtyLe5vIHli7iR","timestamp":1627965995}});

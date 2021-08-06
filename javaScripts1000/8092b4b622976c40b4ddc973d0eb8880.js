@@ -1,0 +1,1 @@
+!function(){var e=document.createElement("script"),t=document.getElementsByTagName("script")[0];e.async=1,e.src="https://widgets.flickr.com/embedr/embedr-47ad26da5deade67d472950b12c94b6c.js",t.parentNode.insertBefore(e,t)}();

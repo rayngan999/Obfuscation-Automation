@@ -1,0 +1,1 @@
+apstag.punt({"cmp":"https://s.amazon-adsystem.com/iu3?cm3ppd=1&d=dtb-pub&csif=t&dl=gg_pm-db5_rbd_ox-db5_3lift","rm":true,"to":5000,"id":"default","cb":"10"})

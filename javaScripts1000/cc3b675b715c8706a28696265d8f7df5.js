@@ -1,0 +1,1 @@
+"use strict";this.Element&&function(t){t.closest=t.closest||function(t){for(var e=this;e.matches&&!e.matches(t);)e=e.parentNode;return e.matches?e:null}}(Element.prototype);

@@ -1,0 +1,2 @@
+define("components/rentalsTabbedBookingWidget/store/actions",[],function(){return{createActions:function(E){var _=E.dispatch;return{dispatchAction:function(E,T,S){_({type:E,payload:T,componentId:S})}}},types:{SET_BOOKING_TYPE:"SET_BOOKING_TYPE",SET_PICKUP_DATE:"SET_PICKUP_DATE",SET_RETURN_DATE:"SET_RETURN_DATE",SET_ERROR_MESSAGES:"SET_ERROR_MESSAGES",SET_DELIVERY_TIME:"SET_DELIVERY_TIME",SET_BIKE_RENTAL_LENGTH:"SET_BIKE_RENTAL_LENGTH",SET_PICKUP_AFTER_3:"SET_PICKUP_AFTER_3"}}});
+//# sourceMappingURL=actions.js.map

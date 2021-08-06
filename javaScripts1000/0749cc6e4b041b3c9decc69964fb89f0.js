@@ -1,0 +1,1 @@
+Krux.ns.lefigaro.kxjsonp_userdata({"status":"200","body":{"code":"no_segments","kuid":"kppidff_ORySiLgi","kuid_long":"kppidff_ORySiLgi","geo":{"region":null,"domain":"netvigator.com","latitude":"22.28","longitude":"114.17","zip":"0","country":"hk","dma":null},"technographics":{"browser":"Firefox 53","manufacturer":"Apple Inc.","device":"Computer","os":"Mac OS X"}}});

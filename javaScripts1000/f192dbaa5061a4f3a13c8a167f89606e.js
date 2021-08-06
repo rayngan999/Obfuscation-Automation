@@ -1,0 +1,1 @@
+"use strict";!function(){var e;(e=window.document.querySelector(".strip-banner"))&&e.classList.contains("strip-banner--hide")&&null!==window.document.querySelector(".strip-banner .api-single-banner-image")&&e.classList.remove("strip-banner--hide")}();

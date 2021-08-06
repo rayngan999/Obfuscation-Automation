@@ -1,0 +1,1 @@
+/**/liveagent._.handlePing({"messages":[{"type":"Error", "message":{"text":"Domain is not whitelisted for this deployment"}}]});

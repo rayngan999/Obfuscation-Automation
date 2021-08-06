@@ -1,0 +1,1 @@
+Krux.ns._default.kxjsonp_userdata({"status":"400","body":{"code":"no_user_id","geo":{"region":null,"domain":"netvigator.com","latitude":"22.28","longitude":"114.17","country":"hk","dma":null,"zip":"0"},"technographics":{"browser":"Firefox 53","manufacturer":"Apple Inc.","device":"Computer","os":"Mac OS X"}}});

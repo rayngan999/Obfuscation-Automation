@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',function(){if(document.querySelectorAll('.widget-form')){let forms=document.querySelectorAll('.widget-form');forms.forEach(function(form){form.addEventListener('submit',function(event){event.preventDefault();disableSubmitButton(form);sendForm(form)})})}})

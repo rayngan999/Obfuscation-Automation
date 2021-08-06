@@ -1,0 +1,1 @@
+angular.callbacks._3( {"disabled":0,"encoded_guid":"Z3VpZC5leHBpcmVkLjE2MjI4OTM4MTEyNjM%253D%253F%253D","wxh":"2","subdomain":"dal038.cams.com","online":"1","stream_id":"3456","subdomain_euro":"","stream_name":"WildThing","server":"69.165.110.140","mpp":"69.165.102.38","exclusive":null,"mpp_euro":null} )

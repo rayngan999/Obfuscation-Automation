@@ -1,0 +1,11 @@
+var var_fu0tjz1mvi = '';
+var_fu0tjz1mvi += "<"+"div style=\"width:300px;height:100px;\" class=\"adnSpot2\" id=\"adn-4789004\" >\n";
+var_fu0tjz1mvi += "<"+"script type=\"text/javascript\" class=\"\" style=\"\">\n";
+var_fu0tjz1mvi += "(function (node) {\n";
+var_fu0tjz1mvi += "var adn = document.createElement(\"script\");\n";
+var_fu0tjz1mvi += "adn.type = \"text/javascript\", adn.async = true, adn.src = \"//a.medfoodspace.com/warp/4789004?r=\" + Math.floor(Math.random() * 99999) + \"\";\n";
+var_fu0tjz1mvi += "node.appendChild(adn);\n";
+var_fu0tjz1mvi += "})(document.getElementsByTagName(\"script\")[document.getElementsByTagName(\"script\").length - 1].parentNode)\n";
+var_fu0tjz1mvi += "<"+"/script>\n";
+var_fu0tjz1mvi += "<"+"/div>\n";
+document.write(var_fu0tjz1mvi);

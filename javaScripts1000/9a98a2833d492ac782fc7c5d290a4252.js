@@ -1,0 +1,1 @@
+onSmSponsoredData({"placements":[],"passbacks":{}});

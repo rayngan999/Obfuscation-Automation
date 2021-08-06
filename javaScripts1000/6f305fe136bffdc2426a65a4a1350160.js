@@ -1,0 +1,1 @@
+moatOcrSample({'adLookup':'NATIVOINVCONTENT1|12245','sampleRate':1,'campaignId':'moat_tsci_tKCVz','placementId':'b-12245','pixelFire':'https://secure-gl.imrworldwide.com/cgi-bin/m?ci=nlsnapi29032&am=4&ep=1&at=view&rt=banner&st=image&ca=moat_tsci_tKCVz&cr=crv5237987&pc=PLACEMENT&r=TIMESTAMP','domain':'www.nativo.com'});

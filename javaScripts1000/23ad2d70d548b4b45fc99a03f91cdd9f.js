@@ -1,0 +1,1 @@
+DotMetricsObj.HandleJsonp({"DeviceId":"","UserId":"e123c0c5-f0ac-44f0-8f50-26771c18e335","DeviceGuidId":"978d3cb4-efbd-4613-bb3d-5d338fcfd917","Survey":null,"SendDeviceInfo":false,"SendFSO":false,"SendLSO":false,"PersistDeviceAndUser":false,"EnterPageEventData":null,"Ping":0,"SendDeviceHash":false,"DebugInfo":""});

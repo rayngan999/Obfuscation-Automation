@@ -1,0 +1,2 @@
+define("services/mouseflowHelper",["services/validationUtilities"],function(i){var t={recordAction:function(n,o){o=t.getId(o),i.isSet(o)&&(window._mfq=window._mfq||[],window._mfq.push([n,"#".concat(o)]))},getId:function(i){return i instanceof $?i.attr("id"):i}};return{forms:{submit:function(i){t.recordAction("formSubmitAttempt",i)},success:function(i){t.recordAction("formSubmitSuccess",i)},failure:function(i){t.recordAction("formSubmitFailure",i)}}}});
+//# sourceMappingURL=mouseflowHelper.js.map

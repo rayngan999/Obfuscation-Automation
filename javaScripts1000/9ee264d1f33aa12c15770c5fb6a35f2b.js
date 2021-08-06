@@ -1,0 +1,2 @@
+Bootstrapper.bindImmediate(function(){var Bootstrapper=window["Bootstrapper"];var ensightenOptions=Bootstrapper.ensightenOptions;Bootstrapper.on("click",".primary-action",function(){Bootstrapper.ensEvent.trigger("10290-ACE-5765-EVT",this)},true)},-1,-1);
+Bootstrapper.bindImmediate(function(){var Bootstrapper=window["Bootstrapper"];var ensightenOptions=Bootstrapper.ensightenOptions;Bootstrapper.on("click",'[type*\x3d"submit"]',function(){Bootstrapper.ensEvent.trigger("2864-nextgeartest-EVT",this)},true)},-1,-1);

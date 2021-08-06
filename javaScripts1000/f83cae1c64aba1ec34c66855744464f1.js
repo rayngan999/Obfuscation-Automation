@@ -1,0 +1,1 @@
+$(function(){setTimeout(function(){$(".drop-cta").show()},2e3);$(".value-insight-portal-link").click(function(){tradePubGTMPushEvent("vip")})})

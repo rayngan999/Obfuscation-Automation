@@ -1,0 +1,1 @@
+Krux.ns.aeroopcollc.kxjsonp_userdata({"status":"200","body":{"code":"no_segments","kuid":"kppidff_ORyJwxjg","kuid_long":"kppidff_ORyJwxjg","geo":{"region":null,"latitude":"22.28","longitude":"114.17","domain":"netvigator.com","country":"hk","dma":null,"zip":"0"},"technographics":{"browser":"Firefox 53","manufacturer":"Apple Inc.","device":"Computer","os":"Mac OS X"}}});

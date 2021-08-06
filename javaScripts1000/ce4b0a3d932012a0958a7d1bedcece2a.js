@@ -1,0 +1,1 @@
+jQuery223014231371018346506_1627947325506({"ccyc":"HKD","ccyn":"Hong Kong Dollar","rounding":2,"symbol":"$"});

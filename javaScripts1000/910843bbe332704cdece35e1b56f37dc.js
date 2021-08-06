@@ -1,0 +1,6 @@
+define(['jquery','jquery-ui','jquery.uniform','jquery.jscrollpane','jquery.mousewheel','defaults'],function($,__ui,__uniform,__jscrollpane,__mousewheel,defaults){function basicUiEnhancements(options){this.config=$.extend(true,defaults,options||{});var el=this.config.elements;$(el.appendArrow.arrow).append('<span class="'+el.appendArrow.arrowHolder+'" />');var sels=$('select:visible:not(.custom)');if(sels.size()>0&&sels[0].id!="map-selector-service"){if(typeof sels.uniform!='undefined'){sels.uniform();}
+if($('.searchBox').size()>0){jQuery('.searchBox').hide();}}}
+window.reStyleUsHwSelect=basicUiEnhancements;function bindOddEvenStyles(oddEvens){var selector=oddEvens.selector,contentClass=oddEvens.contentClass;$(selector).addClass(contentClass);}
+function bindScrollbars(scroller){if(typeof $().jScrollPane!="undefined"){$(scroller.selector).jScrollPane();}}
+function bindSliders(selector,options){if(typeof jQuery.ui.slider!="undefined"){jQuery(selector).slider(options);}}
+return{init:basicUiEnhancements,bindOddEvenStyles:bindOddEvenStyles,bindScrollbars:bindScrollbars,bindSliders:bindSliders};});;

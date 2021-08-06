@@ -1,0 +1,1 @@
+<html><head></head><body><img src='https://cm.g.doubleclick.net/pixel?google_nid=temelio_dmp&google_sc&google_cm&gdpr=0'/></body></html>

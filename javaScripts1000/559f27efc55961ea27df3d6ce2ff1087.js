@@ -1,0 +1,1 @@
+var geoip_country_code = 'hk';check_ads();

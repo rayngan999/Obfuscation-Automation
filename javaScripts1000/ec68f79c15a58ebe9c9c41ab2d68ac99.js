@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{143:function(e,o,i){"use strict";Object.defineProperty(o,"__esModule",{value:!0}),o.default=function(){var e=window.optimizely.get("custom/uiServiceIntegrator");if(e){var o={pdp:"mgReactPDP"};e.campaignDecisions.forEach(function(e){var i=o[e];void 0!==i&&(document.cookie=i+"=true; path=/;")})}}}}]);

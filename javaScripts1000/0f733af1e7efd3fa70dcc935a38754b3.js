@@ -1,0 +1,1 @@
+importScripts('https://api.pn.vg/sdks/OneSignalSDKWorker.js');

@@ -1,0 +1,1 @@
+function showSectionAd(id){document.getElementById(id).style.float="right";document.getElementById(id).style.marginTop="0";if(screenContext==="movil"){document.getElementById(id).parentNode.style.display="grid";}else{document.getElementById(id).parentNode.style.display="block";}}

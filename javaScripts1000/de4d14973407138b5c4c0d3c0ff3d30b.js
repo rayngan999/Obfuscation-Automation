@@ -1,0 +1,2 @@
+(function($){$(document).ready(function(){$(document).scroll(function(){var _jumpOutHeight=280;var height=$(document).scrollTop();if(height>_jumpOutHeight){$("#share_button").addClass("topstop");}
+if(height<_jumpOutHeight){$("#share_button").removeClass("topstop");}});});})(jQuery);

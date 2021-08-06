@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/6d2e783bbfe3/c0c47c5c96c6/7bf4c6ce15fa/RC47a7a9ff54f64607a91ad652018bd1ba-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/6d2e783bbfe3/c0c47c5c96c6/7bf4c6ce15fa/RC47a7a9ff54f64607a91ad652018bd1ba-source.min.js', "<script>\n    window.cnxDataLayer = [];\n    function cnxtag(){cnxDataLayer.push(arguments);}\n</script>\n<script async src=\"https://js.cnnx.link/roi/cnxtag-min.js?id=31851\"></script>");

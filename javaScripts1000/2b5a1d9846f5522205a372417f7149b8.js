@@ -1,0 +1,1 @@
+denakoptag.cb({"enabled":true,"placements":[{"shortName":"under","reload":45,"pos":2,"anchor":{"selector":"body"},"sizes":[[970,90],[728,90]]}],"scroll":true,"uxId":"noYhuVnSSMyzCdu5TrQXow/0"});

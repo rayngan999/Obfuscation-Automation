@@ -1,0 +1,7 @@
+ï»¿/*<!--*/(function() {var qss="&cb="+Math.floor(99999999999*Math.random());try{qss+="&ref="+encodeURIComponent(document.referrer)}catch(e){}try{qss+="&sc_r="+encodeURIComponent(screen.width+"x"+screen.height)}catch(e){}try{qss+="&sc_d="+encodeURIComponent(screen.colorDepth.toString())}catch(e){}var callDis=function(e,t,n,o){function c(){callDisInternal(e,t,n,o)}"complete"===document.readyState?setTimeout(c):window.addEventListener?window.addEventListener("load",c,!1):window.attachEvent("onload",c)},disCalled=!1,callDisInternal=function(e,t,n,o){if(!disCalled){disCalled=!0;var c=(n?"https:":"")+"//"+t+"/dis/dis.aspx",r=document.createElement("iframe");if(r.width=r.height="0",r.style.display="none",r.title="Criteo DIS iframe",void 0!==o&&""!==o&&(document.body.appendChild(r),null!=r.contentDocument))return r.contentDocument.open(),r.contentDocument.write(o),void r.contentDocument.close();r.src=(c+"?p="+e+qss).substring(0,2e3);var i=document.getElementById("criteoTagsContainer");i?(i.appendChild(r),"undefined"!=typeof criteo_q&&"function"==typeof criteo_q.removeLater&&criteo_q.removeLater(r)):criteo_q.push({event:"appendTag",element:r})}};
+qss += '&idcpy=04e20a6d-24ad-4066-af44-705a22a80010';
+callDis(51189, 'widget.us.criteo.com', true, '<!-- default response -->');
+})();
+
+
+/*-->*/

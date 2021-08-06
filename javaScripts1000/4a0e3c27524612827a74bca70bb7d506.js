@@ -1,0 +1,1 @@
+{"anonymous_user":true,"button_type":"square","card_header_row_count":3,"card_width":"standard","color":"blue","is_autoscrollable":false,"split":19,"user_id":"13088613814780820","widget_type":"horizontal"}

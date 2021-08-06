@@ -1,0 +1,1 @@
+webshop.banners=webshop.banners||{};webshop.banners.Ulp={init:function(){this.bannerClose();},bannerClose:function(){jQ("#ulpBannerClose").on("click",function(){jQ.ajax({url:application.url+"/hideULPBanner.do",method:"post",success:function(){jQ("#ulpBannerSection").remove();jQ.get('/webshop/createPageEvent.do',{ajax:true,pageEventType:'ULP_BANNER_CLOSED'});}});});}};

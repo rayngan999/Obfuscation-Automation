@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/b226952d5677/5242dd221aea/f539ab7301d3/RC7f353199ba5f4df9b3a55b6c2068a01b-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/b226952d5677/5242dd221aea/f539ab7301d3/RC7f353199ba5f4df9b3a55b6c2068a01b-source.min.js', "Crate.AdobeIidentify=\"yes\",body.dispatchEvent(new CustomEvent(\"adobeReady\"));");

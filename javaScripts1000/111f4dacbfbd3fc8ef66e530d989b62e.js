@@ -1,0 +1,17 @@
+document.writeln('<a href=\"/viewtopic.php?p=40393#40393\" target=\"_self\"><b>How upload web pages with a specific web address</b></a><font color=#666666 size=1px> (4)<br> 02 Aug 22:14 - James Blond</font><br>');
+document.writeln('<a href=\"/viewtopic.php?p=40390#40390\" target=\"_self\"><b>php_imagick problems (Windows, php 7.4.21)</b></a><font color=#666666 size=1px> (30)<br> 02 Aug 20:18 - laurin1</font><br>');
+document.writeln('<a href=\"/viewtopic.php?p=40388#40388\" target=\"_self\"><b>Can not set ProxyWebsocketIdelTimeout</b></a><font color=#666666 size=1px> (2)<br> 02 Aug 16:27 - werto87</font><br>');
+document.writeln('<a href=\"/viewtopic.php?p=40381#40381\" target=\"_self\"><b>Mod auth openidc state cookies</b></a><font color=#666666 size=1px> (0)<br> 02 Aug 12:10 - ApacheUser1212123</font><br>');
+document.writeln('<a href=\"/viewtopic.php?p=40378#40378\" target=\"_self\"><b>Bulletproof TLS Newsletter #79</b></a><font color=#666666 size=1px> (0)<br> 01 Aug 15:06 - Steffen</font><br>');
+document.writeln('<a href=\"/viewtopic.php?p=40375#40375\" target=\"_self\"><b>Trying to add X-Robots-Tag HTTP header on Content-Type: appl</b></a><font color=#666666 size=1px> (11)<br> 30 Jul 18:01 - tangent</font><br>');
+document.writeln('<a href=\"/viewtopic.php?p=40371#40371\" target=\"_self\"><b>Single Domain servicing multipule ports on a single host.</b></a><font color=#666666 size=1px> (3)<br> 30 Jul 10:02 - James Blond</font><br>');
+document.writeln('<a href=\"/viewtopic.php?p=40367#40367\" target=\"_self\"><b>Memcached Cygwin builds</b></a><font color=#666666 size=1px> (30)<br> 29 Jul 12:17 - nono303</font><br>');
+document.writeln('<a href=\"/viewtopic.php?p=40362#40362\" target=\"_self\"><b>Graceful Restart on Windows</b></a><font color=#666666 size=1px> (4)<br> 28 Jul 08:34 - James Blond</font><br>');
+document.writeln('<a href=\"/viewtopic.php?p=40355#40355\" target=\"_self\"><b>Plan your Windows Server 2012 and 2012 R2 End of Support</b></a><font color=#666666 size=1px> (1)<br> 27 Jul 08:33 - CamaroSS</font><br>');
+document.writeln('<a href=\"/viewtopic.php?p=40330#40330\" target=\"_self\"><b>Apache service not starting</b></a><font color=#666666 size=1px> (1)<br> 23 Jul 08:42 - James Blond</font><br>');
+document.writeln('<a href=\"/viewtopic.php?p=40329#40329\" target=\"_self\"><b>pecl-memcache for php8</b></a><font color=#666666 size=1px> (5)<br> 23 Jul 08:38 - nono303</font><br>');
+document.writeln('<a href=\"/viewtopic.php?p=40328#40328\" target=\"_self\"><b>mod_md for httpd 2.4.x</b></a><font color=#666666 size=1px> (71)<br> 23 Jul 08:30 - nono303</font><br>');
+document.writeln('<a href=\"/viewtopic.php?p=40326#40326\" target=\"_self\"><b>PHP 8.1.0 Beta 1, 8.0.9 RC1, 7.4.22 RC1 available</b></a><font color=#666666 size=1px> (150)<br> 22 Jul 17:35 - Jan-E</font><br>');
+document.writeln('<a href=\"/viewtopic.php?p=40324#40324\" target=\"_self\"><b>PHP 8.0.9, 7.4.22, 7.3.29, 7.2.34, 7.1, 7.0, 5.6-5.3</b></a><font color=#666666 size=1px> (289)<br> 18 Jul 01:01 - Jan-E</font><br>');
+document.writeln('<a href=\"/viewtopic.php?p=40323#40323\" target=\"_self\"><b>Apache 2.4.48 not loading modules</b></a><font color=#666666 size=1px> (1)<br> 16 Jul 17:59 - PipoApache</font><br>');
+document.writeln('<a href=\"/viewtopic.php?p=40321#40321\" target=\"_self\"><b>VS 2022 Redistributable updated</b></a><font color=#666666 size=1px> (3)<br> 15 Jul 15:15 - spser</font><br>');

@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/31daa5dfccdd/9d3f42fcc3b9/36c99cab6622/RC61684280f24746bc92f8b2b17eb1ecb7-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/31daa5dfccdd/9d3f42fcc3b9/36c99cab6622/RC61684280f24746bc92f8b2b17eb1ecb7-source.min.js', "<script>var continuallySettings = { appID: 'gekr8k83y6vw' };</script> <script src=\"https://cdn-app.continual.ly/js/embed/continually-embed.latest.min.js\"></script>");

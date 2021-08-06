@@ -1,0 +1,1 @@
+jQuery.noConflict();jQuery(document).ready(function($){$('.en-donation-iframe').responsiveIframe();});

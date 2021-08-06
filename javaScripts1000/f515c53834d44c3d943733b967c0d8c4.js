@@ -1,0 +1,1 @@
+_gfp_s_({"_cookies_":[{"_value_":"ID=a766559ff538c481-22c95890a6ca0027:T=1627949538:RT=1627949538:S=ALNI_MatkiXgT_WDyQ9_Qi3EGjFC-SO9Vw","_expires_":1661645538,"_path_":"/","_domain_":"kenalice.tw"}]});

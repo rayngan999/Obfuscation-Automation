@@ -1,0 +1,4 @@
+//tealium universal tag - utag.148 ut4.0.202106161934, Copyright 2021 Tealium.com Inc. All Rights Reserved.
+try{(function(id,loader,u){try{u=utag.o[loader].sender[id]={}}catch(e){u=utag.sender[id]};u.ev={'view':1};u.qsp_delim="&";u.kvp_delim="=";u.id="eed2d682c5f44ba1a866213391f3d8ea";u.base_url="https://tags.w55c.net/rs?";u.map={};u.extend=[];u.send=function(a,b,c,d,e,f){if(u.ev[a]||typeof u.ev.all!="undefined"){c=[];c.push("id="+u.id);for(d in utag.loader.GV(u.map)){if(typeof b[d]!=="undefined"&&b[d]!==""){e=u.map[d].split(",");for(f=0;f<e.length;f++){c.push(e[f]+u.kvp_delim+encodeURIComponent(b[d]));if(e[f]=="price"){c.push("t=checkout&ao=3");}else if(e[f]=="campaign"){c.push("t=marketing");}}}}
+u.img=new Image();u.img.src=u.base_url+c.join(u.qsp_delim);}}
+try{utag.o[loader].loader.LOAD(id)}catch(e){utag.loader.LOAD(id)}})('148','smiledirectclub.main');}catch(e){}

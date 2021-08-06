@@ -1,0 +1,1 @@
+svg4everybody({polyfill:!0}),function(){for(var l=document.querySelectorAll("img"),t=0;t<l.length;t++){var e=l[t];!e.alt&&e.src&&(e.alt=KCMS.utilities.altText(e.src))}}();

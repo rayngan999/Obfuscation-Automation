@@ -1,0 +1,2 @@
+define("components/rentals/TooltipModal",["react","services/validationUtilities"],function(e,t){return function(){var l=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{},a=l.modalBody,o=l.modalTitle;return e.createElement("div",{className:"tooltipModal"},t.isSet(o)&&e.createElement("h2",{className:"tooltipModal__title small--alt2"},o),e.createElement("div",{className:"tooltipModal__content col-xs-12"},e.createElement("div",{className:"sctexteditor"},a)))}});
+//# sourceMappingURL=TooltipModal.js.map

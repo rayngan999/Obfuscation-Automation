@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/6d2e783bbfe3/c0c47c5c96c6/7bf4c6ce15fa/RC3a690e4eeddb456f94a4e1d273cff1dd-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/6d2e783bbfe3/c0c47c5c96c6/7bf4c6ce15fa/RC3a690e4eeddb456f94a4e1d273cff1dd-source.min.js', "<!-- LiveConnectTag for advertisers -->\n  <script type=\"text/javascript\" src=\"//b-code.liadm.com/a-00oc.min.js\" async=\"true\" charset=\"utf-8\"></script>\n<!-- LiveConnectTag for advertisers -->\n");

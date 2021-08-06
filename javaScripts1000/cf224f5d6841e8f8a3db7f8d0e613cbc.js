@@ -1,0 +1,1 @@
+"use strict";window.freedom.i18n={},window.freedom.i18n.getMessage=function(e){return window.freedom.i18n.messages[e]};

@@ -1,0 +1,1 @@
+"use strict";this.Element&&function(e){e.matches=e.matches||e.matchesSelector||e.webkitMatchesSelector||e.msMatchesSelector||function(e){for(var t=this,c=(t.parentNode||t.document).querySelectorAll(e),r=-1;c[++r]&&c[r]!==t;);return!!c[r]}}(Element.prototype);

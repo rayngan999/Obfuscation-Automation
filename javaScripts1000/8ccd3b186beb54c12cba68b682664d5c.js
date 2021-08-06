@@ -1,0 +1,1 @@
+<html><head></head><body><img src="https://cm.g.doubleclick.net/pixel?google_nid=lotameddp&google_cm" style="display:none;"/><img src="https://cm.g.doubleclick.net/pixel?google_nid=adaptv_dbm&google_cm&google_dbm&_origin=1" style="display:none;"/><img src="https://pixel.advertising.com/ups/57304/sync?_origin=1&redir=true" style="display:none;"/></body></html>

@@ -1,0 +1,3 @@
+webshop.social=webshop.social||{};webshop.social.PayPalCallbacks={returnPayPalLoginAction:function(paypalRedirectURL){var successRedirectUrl=jQ('.js-paypal-login-success-redirect').val();if(paypalRedirectURL.indexOf('/webshop/login.go')>=0&&paypalRedirectURL.indexOf('success_redirect=')<0&&successRedirectUrl){paypalRedirectURL=paypalRedirectURL
++(paypalRedirectURL.indexOf('?')===-1?'?':'&')+'success_redirect='+encodeURIComponent(successRedirectUrl);}
+if(Backbone.Webshop.mixins.isBetaFeatureEnabled("RESPONSIVE_LOG_REG_POPUPS")&&!webshop.popup.utils.isIphoneNavigator()){jQ("body").trigger("paypal:redirect",paypalRedirectURL);}else{window.location.href=paypalRedirectURL;}}};

@@ -1,0 +1,1 @@
+_gfp_s_({"_cookies_":[{"_value_":"ID=8104dcef5bfe0332-2237f521a7ca00bf:T=1627959440:RT=1627959440:S=ALNI_MZE746E_Py3EiHNnGsqZC4ET5DNSw","_expires_":1661655440,"_path_":"/","_domain_":"kknews.cc"}]});

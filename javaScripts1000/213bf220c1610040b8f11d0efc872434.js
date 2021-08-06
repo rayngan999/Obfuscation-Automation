@@ -1,0 +1,1 @@
+{"html":"","companionCampaigns":"","companionFormats":"","usedCampaigns":"","usedFormats":"flex","impPixels":["https:\/\/srv.clickfuse.com\/showads\/track\/imp.php?cid=35461633&aid=100000412&b=Firefox_52&artist=&song=&uri=https%3A%2F%2Fwww.altpress.com%2F&ldmo=&search=&cs=0&t=1627954537&av=true&atv=new"],"setAudigentPixel":true}

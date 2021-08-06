@@ -1,0 +1,2 @@
+define("components/bookingWidgetHelper",["FR","jquery","underscore"],function(r,t,n){return{goToNewPageWithParamsFromButtonEvent:function(r,n){var e=r.attr("data-url");window.location.href=e+"?"+t.param(n)},errorMsgShown:function(r){var n={};r.find("[data-error-invalid]:visible").each(function(){var r=t(this);n[r.attr("data-valmsg-for")]=r.attr("data-error-invalid")}),r.trigger("errorMsgShown",n)},setStartDateInSession:function(t){r.$el.window.trigger("set-start-date-in-session",[t])}}});
+//# sourceMappingURL=bookingWidgetHelper.js.map

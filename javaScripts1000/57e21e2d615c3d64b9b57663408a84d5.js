@@ -1,0 +1,4 @@
+apaCallbackConfigPandemicClient({
+	
+	client: '6',
+});

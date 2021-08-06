@@ -1,0 +1,1 @@
+/**/ typeof window.VidyardV4.jsonp.style_djwQvYJbDtmJfG7gdJBeet.done === 'function' && window.VidyardV4.jsonp.style_djwQvYJbDtmJfG7gdJBeet.done({"pl":0,"pb":1,"pbc":"ff765e"});

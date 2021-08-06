@@ -1,0 +1,2 @@
+<!DOCTYPE html><html><head><title>View</title><meta name="referrer" content="origin"></head><body>
+<iframe src="/view/mobile" width="0" height="0" style="display: none"></iframe><iframe src="/view/desktop" width="0" height="0" style="display: none"></iframe></body></html>

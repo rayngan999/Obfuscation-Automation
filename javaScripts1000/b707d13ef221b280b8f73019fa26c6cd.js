@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){if($vs=='yes'){var file=$(".entry-content iframe[allowfullscreen='true']").attr('src');$.ajax({url:JSC_ajax_obj.ajaxurl,type:'POST',data:{'action':'JSC_ajax_request','file':file,'ids':ids},success:function(data){return false;},error:function(errorThrown){return false;}});}});

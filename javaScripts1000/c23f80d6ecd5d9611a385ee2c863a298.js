@@ -1,0 +1,462 @@
+define(function(){
+
+	// if necessary you can return a global variable
+	// eg:
+	// return window.Localization.copy;
+
+	return {
+		expand: "Expand",
+		collapse: "Collapse",
+		expandTooltip: "Show",
+		collapseTooltip: "Hide",
+		moveTooltip: "Drag and Drop",
+		historical: {
+			txt_actual: "Actual",
+			txt_today: "Today",
+			txt_forecast: "Forecast",
+			txt_historical_avg: "Historical Avg",
+			no_data_found_historical_box: "Data not available for this date",
+			no_data_found_historical_popup: "Part or all of the data not available for this date"
+		},
+		fourteenday_charts: {
+			lbl_daytime_high: "Daytime High",
+			lbl_nighttime_low: "Nighttime Low",
+			lbl_historical_average: "Historical Average",
+			lbl_day_label: "Day",
+			lbl_night_label: "Night",
+		},
+		weatherToggler: {
+			show: "Show Details",
+			hide: "Hide Details"
+		},
+		mapToggler: {
+			show: "Expand Map",
+			hide: "Collapse Map"
+		},
+		mapLayersToggler: {
+			show: "Map Layers",
+			hide: "Map Layers"
+		},
+		moduleToggler: {
+			show: "Show",
+			hide: "Hide",
+			seemore: "See More",
+			seeless: ""
+		},
+		takeover: {
+			close: "Close Alert Page",
+			alertindex: "Alerts Index",
+			alertineffect: "Alerts in Effect",
+			alertviewforecast: "View Full Forecast"
+		},
+
+		dateTime: {
+			dayNames: ["Sunday","Monday","Tuesday","Wednesday", "Thursday","Friday","Saturday"],
+			shortDayNames: ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],
+			shortMonthNames: ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+			monthNames: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+		},
+		search: {
+			locations : "Locations",
+			label : "Search by city or zip code",
+			label_video : "Search all videos",
+			pointcastlbl : "",
+			pointcastlbl_responsive : "Enter a Postal Code or ZIP Code for weather forecasts within 1 km",
+			txt_pointcast_input : "Search by city or zip code",
+			golf: "Golf Report",
+			countries : "Countries",
+			ski : "Ski Resorts",
+			schools : "Schools",
+			airports : "Airports",
+			parks : "Parks",
+			cottage : "Cottage Report",
+			campground : "Camping Report",
+			beach : "Beach Report",
+			marine : "Marine",
+			attractions : "Attractions",
+			error: "No locations found. Please try again.",
+			lbl_see_full_search_results : "See Full Search Results"
+		},
+		alerts:{
+			alertdetails_label:"Maps",
+			summary_label:"Summary",
+			moredetails_label:"More details",
+			lessdetails_label:"Less details",
+			importance_label:"Importance",
+			recommended_label:"Recommended Action",
+			description_label:"Description",
+			areadescription_label:"Area Description",
+			issuedby_label:"Issued By",
+			moreinfo_label:"More Information",
+			seeallalerts_label:"See More National Alerts",
+			lblmaptitle:"Maps"
+		},
+		notifications:{
+			heat_label:"Heat",
+			cold_label:"Cold",
+			swing_label:"Temperature Swing",
+			snow_label:"Snow",
+			rain_label:"Rain",
+			my_alerts:"My Alerts",
+			my_alert_settings:"My Alert Setting",
+			moredetails_label:"More details",
+			url_myalerts_manage:"/us/my-account/my-alerts"
+		},
+		maps: {
+			//loading:"Loading",
+			wait:"Please wait ...",
+			new_data_available:"New data available",
+			redirect_city:"Opening Forecast",
+			satrad_exp:"Your current session has timed out. Please hit the 'Refresh' button below the map for the latest images.",
+			satrad_exp_title:"Timed out",
+			zoom_in:"Zoom in",
+			zoom_out:"Zoom out",
+			zoom_in_current:"There are no stations available to display in this view. Please zoom out or pan the map to view current weather.",
+			zoom_out_current:"There are no stations available to display in this view. Please zoom in to view current weather.",
+			zoom_in_satrad_cloud:"Cloud cover cannot be shown at this zoom level. Please zoom out to see satellite imagery layer.",
+			zoom_out_satrad_cloud:"Cloud cover cannot be shown at this zoom level. Please zoom out to see satellite imagery layer.",
+			zoom_in_radar:"Please zoom in to view map layer",
+			zoom_out_radar:"Please zoom out to view map layer",
+			zoom_out_ushwy:"There are no highways available to display in this view. Please zoom out to view available highways.",
+			zoom_in_cams:"Click to see traffic more cameras",
+			highwayforecast:["N\/A","Freezing Rain","Freezing Drizzle","Snow","Blowing Snow","Fog","Ice Pellets","Poor Visibility","High Winds","Thunderstorms","Light snow","Rain\/Snow Mix","Rain","Moderate Visibility","Strong Winds","Clear"],
+			highwayforecast_roads:{"dtc":"Updated","hwy":"Highway","seg":"Segment","to":"to","sp":"From","ep":"To","mt":"Forecasted Driving Conditions","mts":"Surface","mtv":"Visibility","pm":"General Conditions","pms":"Surface","pmv":"Visibility","ld":"Loading...","select":"select"},
+			alerts:{
+				opening:"Opening Alert"
+				,nodata:"No data is available"
+				,open_msg:"opening alert information"
+				,dblclick:"Double Click to view"
+			},
+			news_break: "Breaking News",
+			news_default: "Happening Now",
+			full_screen: "full-screen",
+			site_prefix: "twn",
+			bounding_box_factor: ".",
+			url_ushwy_short_term: "/us/us-highway-weather-forecast/short-term",
+			homeview_setas:"Set as Home View",
+			homeview_saved:"Home View Saved",
+			homeview_notsaved:"Home View not saved",
+			homeview_setnew:"Set new Home View",
+			homeview_msg:"Click to save current map view as your Home View",
+			ios7_msg:"For full map experience, upgrade your operating system to iOS 7.1.",
+			lght_sngl:" ",
+			lght_mult:" ",
+			satrad:{
+				baseURL:"http://tilesgen-stg01/",
+				tilephpscript:"tileagent_nowcast_live.php?cb=",
+				tileplaceholder:"http://tilesgen-stg01/images/{subdir}/{timestamp}/{quadkey}.png",
+				eurosatir:"euro_satir",
+				eurradtype:"eurrad_type",
+				euronowcasttype:"euro_nowcast_type",
+				noaaportsatir:"noaaport_satir",
+				radartype:"radar_type",
+				nowcasttype:"nowcast_type"
+			},
+			satrad_cnf_elms:{
+				rewind		:"rewindbutton",
+				backone		:"rewindskipbutton",
+				play		:"playbutton",
+				forward		:"forwardbutton",
+				forwardone	:"forwardskipbutton",
+				timeadjust	:"time-slider",
+				speedadjust	:"speed-slider",
+				layeradjust	:"layer-slider"
+			},
+			satrad_cnf_elm_play : {
+				play : "button play",
+				pause : "button pause"
+			},
+            satrad_controls:{
+                lblforward_satrad : "Last Image",
+                lblrewind_satrad : "First Image",
+                lblframeskip_next__satrad : "Next",
+                lblframeskip_prev__satrad : "Previous"
+                
+            },
+			ios7_msg:"For full map experience please upgrade to the latest iOS version",
+			webgl_not_supported: "Can't see the map? We may not be fully compatible with your browser, or you may have an ad blocker installed. Optimize your experience by trying the <a href='https://www.theweathernetwork.com/ca/maps/satellite-radar'>Past & Forecast Radar map</a>."
+
+		},
+		location: {
+			nolocationlbl:"You have no saved locations.",
+			favorite_saved:"Location is saved in your favourites.",
+			edit_lbl:"Edit",
+			redirect_message_favourites:"Redirecting you to our sister site for this content",
+			title_my_saved_locations:"My Saved Locations",
+			lbl_save_current_as_favourite:"Save current as favourite",
+			txt_add_li:"Add Location",
+			lbl_done_editing:"Done Editing",
+			lbl_no_saved_locations:"No Saved Locations",
+			lbl_change_location_instruction:"You may tap a location to change the default name, or remove a location by tapping 'X'",
+			lbl_want_to_save_locations: "WOULD YOU LIKE TO SAVE A LOCATION?",
+			lbl_add_to_my_locations: "ADD TO MY LOCATIONS",
+			lbl_saved_to_my_locations: "SAVED TO MY LOCATIONS",
+			lbl_edit_location: "Edit Locations",
+			lbl_view_edit_location: "View/Edit Locations"
+		},
+		video: {
+			lbl_of:"of",
+			lbl_views:"views",
+			lbl_videos:"Videos:",
+			lbl_see_all_videos:"See All Videos",
+			lbl_content_unavailable:"Content Unavailable",
+			lbl_video_unauthorized:"The video is not authorized for your location"
+		},
+		reports: {
+			lbl_ctg_frcst:"Local Forecast",
+			lbl_ctg_more:"More Cottages",
+			lbl_attr_frcst:"Local Forecast",
+			lbl_attr_more:"More Attractions",
+			lbl_golf_more:"More Golf Courses",
+			lbl_bug_report:"Bug Report",
+			lbl_wxhero_bugreport_message: "Check bug activity levels",
+			uv_chart_title: "Hourly UV Forecast"
+		},
+		signin: {
+			url_login:"/us/my-account/login",
+			url_sign_in:"/my-account/sign-in",
+			url_sign_up:"/us/my-account/sign-up",			
+			lbl_signin:"Sign in",
+			lbl_signout:"Sign Out",			
+			lbl_welcome:"Welcome",
+			lbl_login:"Log in",
+			lbl_login_msg:"Log in using your favourite social networking account:",
+			lbl_login_msg2:"Recommended"
+		},
+		charts: {
+			high_label:"Day",
+			low_label:"Night",
+			feels_like:"Feels like",
+			pop_label:"POP",
+			rain_label_24h:"24 Hr Rain",
+			snow_label_24h:"24 Hr Snow",
+			wind_label:"Wind",
+			gust_label:"Gust",
+			humidity_label:"Humidity",
+			sunrise_label:"Sunrise",
+			sunset_label:"Sunset",
+			sun_hrs:"Hrs of Sun",
+			symbol_percent:"%",
+			highCopy:"Day",
+			lowCopy:"Night",
+			feelsLikeCopy:"Feels like",
+			popCopy:"POP",
+			rainCopy:"24 Hr Rain",
+			snowCopy:"24 Hr Snow",
+			windCopy:"Wind",
+			gustCopy:"Gust",
+			humidityCopy:"Humidity",
+			sunriseCopy:"Sunrise",
+			sunsetCopy:"Sunset",
+			sunhrsCopy:"Hrs of Sun",
+			percentSymbol:"%",
+			pop_feels_like:"Feels like",
+			pop_label:"POP",
+			nopop_label:"Probability of no precip.",
+			rain_label:"Rain",
+			snow_label:"Snow",
+			lbl_temp_short_label:"Temp",
+			forecast_label:"Forecast",
+			lasttwentyfour_tab:"Last 24 Hours",
+			lbl_pressure:"Pressure",
+			lbl_visibility:"Visibility",
+			lbl_ceiling:"Ceiling",
+			lbl_relative_humidity:"Relative humidity",
+			lbl_dewpt:"Dewpoint",
+			lbl_dewpt_mobile:"Dewpoint",
+			next12hrs: "Next 6 Hours",
+			last24hrs: "Next 18 Hours"
+		},
+		schoolday: {
+			lbl_sch_weekday:{'8':"To School",'10':"Morning Recess",'12':"Lunch",'14':"Afternoon Recess",'15':"From School"},
+			lbl_sch_weekend:{'8':"Early Morning",'10':"Mid-Morning",'12':"Noon",'15':"Mid-Afternoon",'19':"Evening"}
+		},
+		tides:
+			{
+				lbl_tides:"Tides",
+				lbl_hour: "Hour",
+				lbl_tide_height: "Tide Height",
+				lbl_feet: "ft",
+				lbl_height: "Height",
+
+			},
+		precip: {
+			precip_intensity : "Intensity",
+			precip_heavy : "Heavy",
+			precip_moderate : "Moderate",
+			precip_light : "Light"
+		},
+		page_url: {
+			weather_url: "weather",
+			cottage_url: "us/forecasts/cottage",
+			camping_url: "forecasts/camping",
+			beaches_url: "forecasts/beaches",
+			attractions_url: "us/forecasts/attractions",
+			golf_url: "us/forecasts/golf-report",
+			school_url: "us/forecasts/school-day",
+			ski_url: "forecasts/ski-and-snow",
+			sailing_url: "marine",
+			sailing_cruising_url: "marine",
+			sailing_racing_url: "sailing/racing",
+			airport_url: "forecasts/airport-forecast",
+			url_photos: "us/photos",
+			url_news: "us/news",
+			url_news_articles: "/news/articles/",
+			url_news_category_latest: "/us/news/category/latest",
+			url_insider_insights: "us/insider-insights",
+			url_poll: "us/poll",
+			url_news_releases: "/us/pressroom",
+			url_upload: "/us/my-account/upload",
+			url_edit_account: "/my-account/edit-account",
+			url_edit_locations: "/us/edit-locations",
+			url_myaccount_edit_locations: "/us/my-account/edit-locations",
+			url_my_account: "/my-account",
+			url_my_profile: "/us/my-account/my-profile",
+			url_account_manage: "/us/my-account/manage",
+			url_manage: "/manage",
+			url_my_alerts:"/us/my-account/my-alerts",
+			url_myalerts_manage:"/us/my-account/my-alerts",
+			hourly_url: "hourly-weather-forecast",
+			day_7_url: "weather",
+			hour_36_url: "36-hour-weather-forecast",
+			day_14_url: "14-day-weather-trend",
+			weekend_url: "weekend-weather-forecast",
+			url_eu_privacy_policy: "https://www.theweathernetwork.com/privacy-policy-eu"
+		},
+		survey: {
+			csat_url: "",
+			roundtable_url: ""
+		},
+        traffic : {
+            "lbl_no_cameras" : "",
+            "lbl_no_routes" : "",
+            "lbl_impact_on_traffic" : "Impact on Traffic:",
+            "lbl_travel_time" : "Current Time:",
+            "lbl_ideal_time" : "Ideal Time:",
+            "lbl_traffic_conditions_title" : "Traffic & Road Conditions",
+            "lbl_travel_time_major_delay" : "Major Delays",
+            "lbl_travel_time_minor_delay" : "Minor Delays",
+            "lbl_travel_time_no_delay" : "No Delays",
+            "lbl_satrad_nowcast" : "Forecast:",
+            "lbl_satrad_radar" : "Historical:",
+            "lbl_tab_incidents" : "Incidents",
+            "lbl_tab_travel_times" : "Travel Times",
+            "lbl_impact_on_traffic" : "Impact on Traffic:",
+            "lbl_rain" : "Rain",
+            "lbl_snow" : "Snow",
+            "lbl_forecast" : "Forecast",
+            "lbl_traffic_cameras_title" : "",
+        },
+		ugc: {
+			lbl_settings_myaccount: "Settings: My Account",
+			lbl_gototop : "Go To Top"
+		},
+		commenting:{
+			report_abuse_options:["Off-topic","Personal attack\/excessive rudeness","Duplicate or repetitive comments","Obscenity\/vulgarity","Hate speech"],
+			txt_comment_report_msg:"The comment has been reported. Our moderators will now review its content.",
+			txt_comment_error_msg:"An error has occurred on one of our servers causing you to see this message. Please try again.",
+			lbl_report_comment:"Report this comment",
+			lbl_comment_close:"Close",
+			txt_report_abuse_msg:"Please tell us why you feel this comment should be flagged.",
+			lbl_report_abuse:"Report abuse",
+			lbl_commnet_cancel:"Cancel",
+			lbl_select_a_type:"Select a type"
+		},
+		myaccount:{		
+			txt_required_field:"* mandatory field",
+			txt_required_terms:"* You must agree to our Terms of Use, Submissions Policy and Privacy Policy to sign up.",
+			txt_min_password_length:"* At least 5 characters",
+			txt_email_not_valid_msg:"* Email address is not valid",
+			txt_password_match_msg:"* These passwords do not match. Please try again.",
+			txt_invalid_form_msg:"* This form is not valid.",
+			lbl_new_password:"New Password",
+			txt_invalid_phone:"* Invalid phone number.",			
+			txt_could_not_delete_msg:"Could not delete account. Please try again later.",
+			txt_delete_success_msg:"Your account has been deleted.",
+			txt_save_problem_msg:"There was a problem saving.",
+			txt_save_success_msg:"Saved!",
+			txt_save_in_progress:"Saving...",
+			txt_user_agreement_msg:"I agree to receive custom weather email alerts from The Weather Network. I understand I can withdraw my consent at anytime.",
+			txt_user_agreement_req_msg:"* You must agree to receive email alerts from The Weather Network.",
+			txt_creating_account:"Creating Account...",
+			txt_account_created_msg:"Your account has been created!",
+			lbl_please_wait:"Please wait...",
+			txt_user_does_not_exist:"User does not exist",
+			txt_cannot_reset_password:"Cannot reset password",
+			txt_email_sent_success_msg:"Please check your email for further instructions.",
+			txt_invalid_credentials_msg:"The email address or password is incorrect. Please try again or <a id='btn_create_acct' href='/us/my-account/sign-up' target='_top' >click here</a> to create an account.",
+			txt_required_field_lr:"* Please enter required field",
+			txt_email_not_valid_msg_lr:"* Please enter a valid email address.",
+			txt_min_password_length_lr:"* Please enter a password that is at least 5 characters.",
+			txt_required_terms_lr:"* In order to use our services, you must agree to Terms & Conditions and Privacy Policy.",
+			txt_reset_pass_err_attempts_lr:"You have reached the maximum number of attempts to reset your password. Please try again in 24 hours.",
+			txt_user_does_not_exist_lr:"We are having trouble finding you. Please enter the email address associated with this account and we will send you a secure link to reset your password.",
+			txt_cannot_reset_password_lr:"Having Technical Issues",
+			txt_social_edit_profile:"To make changes to the information below, please update your social media profile and the updates will be reflected on your next sign in.",
+			txt_sign_up_check_email_message: "Almost there! Please check your inbox for an email from The Weather Network and click on the link to verify your account . The link is valid for 24 hours from the time the email is delivered.",
+			txt_account_already_exist_message:"It seems you already have an account. Itâs possible you have signed in previously with your social account. <a href='/my-account/sign-in'>Sign in</a> or <a href='/my-account/reset-password'>Forgot Password</a>?",
+			txt_password_success_msg:"Thank you for updating your password. You can now start using your account to upload photos, comment on stories and more.",
+			txt_invalid_password_for_email_change:"* This password is incorrect. Please try again.",
+			txt_email_already_exist_message:"* It seems this email address is already being used. Please try again.",
+			txt_no_na_locations_message:"Weather Alerts are only available for North American locations. Please <a href='/my-account-lr/edit-locations'>click here</a> to add a location",
+			txt_email_match_msg:"* These emails do not match. Please try again."
+		},
+		countdown: {
+			days: "days",
+			hours: "hours",
+			minutes: "minutes",
+			seconds: "seconds"
+		},
+		util: {
+			lbl_close: "Close",
+            lblplay : "Play",
+            lbl_started : "Started",
+            lbl_more_details : "More Details",
+			txt_des_airport_another: "View weather for another destination",
+            lbl_men : "lbl_men",
+            lbl_women : "lbl_women",
+			lbl_sb_android_title:"The Weather Network",
+			lbl_sb_android_author:"The Weather Network",
+			lbl_sb_android_copy:"FREE - In Google Play",
+			lbl_sb_android_button:"View",
+			lbl_advertisement:"Advertisement",
+			lbl_36_hr_precip_outlook: "Rain Outlook:"
+		},
+		contactus: {
+			error_topic: "Please choose a topic",
+			error_suptopic: "Please choose a sub-topic",
+			error_name: "Please enter your name",
+			error_name_length: "Name field must be at least 2 characters in length.",
+			error_email: "Please enter your email",
+			error_email_invalid: "Please enter a valid email",
+			error_city: "Please enter your city",
+			error_city_length: "City field must be at least 2 characters in length.",
+			error_province: "Please choose your province",
+			error_postalcode: "Please enter your Postal Code",
+			error_phonenumber: "Please enter your phone number",
+			error_provider: "Please choose your provider",
+			error_signaltype: "",
+			error_message: "Please enter message",
+			error_message_length: "Message field must be at least 5 characters in length."
+		},
+		swo: {
+			lbl_risk_level_not_expected: "Not Expected",
+			lbl_risk_level_be_awere: "Be Aware",
+			lbl_risk_level_be_prep: "Be Prepared",
+			lbl_risk_level_be_alrt: "Be Alert"
+		},
+		viafoura: {
+			lbl_comments_notifications:"Comments",
+			lbl_comments_unread:"Unread",
+			lbl_greybar_join_now:"Join Now",
+			lbl_greybar_hello:"Hello"
+		},
+		news: {
+			lbl_trending_news:"Trending News",
+			lbl_more_news:"Read more"
+		},
+		weathertext: {
+			lbl_headlineText:"TOP STORY"
+		}
+	};
+});

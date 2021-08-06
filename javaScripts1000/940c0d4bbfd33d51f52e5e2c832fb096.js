@@ -1,0 +1,2 @@
+(this.clientJsonpCallback=this.clientJsonpCallback||[]).push([[24],{313:function(e,t,n){"use strict";n.r(t);var r=n(12),l=n(1).a.getWindow(),o=l.__internal,a=o.headerVersion,i=o.CultureSelectorVersion,s=o.searchControlsContext;delete l.__internal.headerVersion,delete l.__internal.CultureSelectorVersion,delete l.__internal.searchControlsContext,t.default=function(){return Object(r.a)({name:"header",version:a},(function(e){(0,e.hydrate)({CultureSelectorVersion:i,searchContext:s})}))}}}]);
+//# sourceMappingURL=24.bfc432f9.chunk.js.map

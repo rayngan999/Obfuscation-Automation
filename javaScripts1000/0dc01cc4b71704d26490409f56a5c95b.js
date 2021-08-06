@@ -1,0 +1,1 @@
+var s=document.getElementById('script-holder-/aid/tvgid/');if(!s){s=document.createElement('script');s.id='script-holder-/aid/tvgid/';document.body.appendChild(s);}s.src='//counter.ukr.net/advert/adv/tvgid/cnt.php?rand=0.8280925971693076&r=&p=https%3A//tvgid.ua/&c=y&fr=n&tz=-480&j=n&s=1792*1120&d=24&js=y';

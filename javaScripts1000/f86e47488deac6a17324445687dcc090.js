@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/6d2e783bbfe3/c0c47c5c96c6/7bf4c6ce15fa/RCe871173daccb464eb12d81b0aa77d57a-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/6d2e783bbfe3/c0c47c5c96c6/7bf4c6ce15fa/RCe871173daccb464eb12d81b0aa77d57a-source.min.js', "<img height=\"1\" width=\"1\" style=\"display:none\" src=\"https://www.facebook.com/tr?id=1272022626312394&ev=PageView&cd[order_id]=%AdOps_AdobeCookieV2%\"/>");

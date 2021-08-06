@@ -1,0 +1,1 @@
+<html><head></head><body><img src="https://x.bidswitch.net/syncd?dsp_id=16&user_group=1&gdpr=0&redir=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dbidswitch_dbm%26google_hm%3D%24%7BBSW_UID_ENCODED%7D" style="display:none;"/><img src="https://cm.g.doubleclick.net/pixel?google_nid=adobe_dmp&google_cm&gdpr=0" style="display:none;"/></body></html>

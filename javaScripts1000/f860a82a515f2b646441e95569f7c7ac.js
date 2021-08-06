@@ -1,0 +1,1 @@
+Krux.ns.prometheus.kxjsonp_userdata({"status":"200","body":{"code":"no_segments","kuid":"kppidff_ORynTz-x","kuid_long":"kppidff_ORynTz-x","geo":{"domain":"netvigator.com","latitude":"22.28","longitude":"114.17","country":"hk","dma":null,"zip":"0","region":null},"technographics":{"browser":"Firefox 53","manufacturer":"Apple Inc.","device":"Computer","os":"Mac OS X"}}});

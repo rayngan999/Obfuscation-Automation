@@ -1,0 +1,1 @@
+define(["modules/id.core"],function(e){"use strict";e.utils.log("loading advert.js")});

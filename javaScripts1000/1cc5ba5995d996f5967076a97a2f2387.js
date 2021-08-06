@@ -1,0 +1,24 @@
+  googletag.cmd.push(function () {
+            googletag.pubads().setCookieOptions(1);
+            googletag.pubads().setRequestNonPersonalizedAds(1);
+            googletag.defineSlot('/5196/st/300x250_1', [300, 250], 'div-gpt-ad-1519141236330-0').addService(googletag.pubads());
+            googletag.defineSlot('/5196/st/300x250_2', [300, 250], 'div-gpt-ad-1519141236330-1').addService(googletag.pubads());
+            googletag.defineSlot('/5196/st/300x250_3', [300, 250], 'div-gpt-ad-1519141236330-2').addService(googletag.pubads());
+            googletag.defineSlot('/5196/st/300x250_300x600_1', [[300, 250], [300, 600]], 'div-gpt-ad-1519141236330-3').addService(googletag.pubads());
+            googletag.defineSlot('/5196/st/320x50_320x100_1', [[320, 50], [320, 100]], 'div-gpt-ad-1519141236330-4').addService(googletag.pubads());
+            googletag.defineSlot('/5196/st/320x50_320x100_2', [[320, 50], [320, 100]], 'div-gpt-ad-1519141236330-5').addService(googletag.pubads());
+            googletag.defineSlot('/5196/st/320x50_320x100_3', [[320, 50], [320, 100]], 'div-gpt-ad-1519141236330-6').addService(googletag.pubads());
+            googletag.defineSlot('/5196/st/320x50_320x100_4', [[320, 50], [320, 100]], 'div-gpt-ad-1519141236330-7').addService(googletag.pubads());
+            googletag.defineSlot('/5196/st/728x90_1', [728, 90], 'div-gpt-ad-1519141236330-8').addService(googletag.pubads());
+            googletag.defineSlot('/5196/st/728x90_2', [728, 90], 'div-gpt-ad-1519141236330-9').addService(googletag.pubads());
+            googletag.defineSlot('/5196/st/728x90_3', [728, 90], 'div-gpt-ad-1519141236330-10').addService(googletag.pubads());
+            googletag.defineSlot('/5196/st/728x90_4', [728, 90], 'div-gpt-ad-1519141236330-11').addService(googletag.pubads());
+            googletag.defineSlot('/5196/st/970x250_1', [970, 250], 'div-gpt-ad-1519828380054-4').addService(googletag.pubads());
+            googletag.defineSlot('/5196/st/970x250_2', [970, 250], 'div-gpt-ad-1519828380054-5').addService(googletag.pubads());
+            googletag.defineSlot('/5196/st/160x600_1', [160, 600], 'div-gpt-ad-1519914818355-0').addService(googletag.pubads());
+            googletag.defineOutOfPageSlot('/5196/st/320x50_320x100_1', 'div-gpt-ad-1519141266855-0').addService(googletag.pubads());
+            googletag.defineOutOfPageSlot('/5196/st/728x90_1', 'div-gpt-ad-1519141266855-1').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.pubads().collapseEmptyDivs();
+            googletag.enableServices();
+        });

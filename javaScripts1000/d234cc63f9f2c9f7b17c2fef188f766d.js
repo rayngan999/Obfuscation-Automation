@@ -1,0 +1,1 @@
+promotionsJsonpCallback({"exception":{"status":200,"error":"Relevant promotion for merchant 4980 could not be found."}});

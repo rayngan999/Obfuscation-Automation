@@ -1,0 +1,1 @@
+window.optimizely.push({type:"load",data:{changes:[{"dependencies": [], "type": "append", "id": "6569E11B-26FC-4243-9C24-DB2443F75907", "value": "<style>@media screen and (max-width: 500px){\n  .oo_feedback_float{\n    display: none;\n  }\n}</style>", "selector": "head"}]}});

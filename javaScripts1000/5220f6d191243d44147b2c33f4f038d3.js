@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/aaa144e582c6/03f800b52437/c8d0f3596000/RCeeea909350874875809b6df250e2e736-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/aaa144e582c6/03f800b52437/c8d0f3596000/RCeeea909350874875809b6df250e2e736-source.min.js', "window.medallia_ab=Number(_satellite.getVar(\"Adobe_ECID\").slice(-2))+1;");

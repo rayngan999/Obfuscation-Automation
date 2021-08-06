@@ -1,0 +1,1 @@
+mtopjsonp2({"api":"mtop.common.getTimestamp","v":"*","ret":["SUCCESS::æ¥å£è°ç¨æå"],"data":{"t":"1627940658928"}})

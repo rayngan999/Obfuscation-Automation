@@ -1,0 +1,1 @@
+/**/vglnk_16279431777087("krv7c5pq01010l04000DL1p0mkkez9eqzf",2000,[],[],{"debug":false,"dataObserver":false,"plugins":{"linkAffiliation":{"linkTarget":"_blank","convertMinimumBid":false},"partnerIntegration":{"sync_type":"script","log_links":false}},"dynamic":true,"platform":"full"},[]);

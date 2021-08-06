@@ -1,0 +1,1 @@
+angular.callbacks._3( {"disabled":1,"encoded_guid":"Z3VpZC5leHBpcmVkLjE2MjI4OTM4MTEyMDU%253D%253F%253D","wxh":"2","subdomain":"dal034.cams.com","stream_id":"642988","online":"1","subdomain_euro":"","mpp":"69.165.102.34","server":"69.165.110.134","stream_name":"AshleyQueen","mpp_euro":null,"exclusive":"0"} )

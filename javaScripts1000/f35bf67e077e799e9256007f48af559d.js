@@ -1,0 +1,1 @@
+!function(e){e.fn.stickyHeader=function(){var s=e("body"),t=e(this).offset().top-s.offset().top-1,o=e(this).height()+t,d=function(){var d=e(window).scrollTop();d>t?(s.addClass("sticky-header"),s.css("padding-top",o+"px")):(s.removeClass("sticky-header"),s.css("padding-top","0"))};d(),e(window).scroll(d)},e(document).ready(function(){e(".site-header").stickyHeader()})}(jQuery);

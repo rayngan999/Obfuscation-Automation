@@ -1,0 +1,1 @@
+window.better_ads_adblock=!0;

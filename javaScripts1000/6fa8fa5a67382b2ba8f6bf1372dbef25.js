@@ -1,0 +1,5 @@
+var _mgq=_mgq||[];
+_mgq.push(["MarketGidLoadGoods74277",[
+["Hughes News Today","6565562","1","The Blue Lagoon 1980 Actors Then And Now","","0","","","","cBxmocy60gbLw6ykr8idVCwsiO4H1fzn2lGHrYcC77QIwwWyIAMix-m6Ew9utWWF",{"i":"https://s-img.mgid.com/g/6565562/492x328/0x0x1078x718/aHR0cDovL2ltZ2hvc3RzLmNvbS90LzIwMjAtMDgvOTgwMjIvYTllODM4MGE0MzNiYmQ5YmIyYzRiMGQzMmFhMTczNjYuanBn.jpg?v=1627934895-Ukc7FI8NVFNYZC-NvoXfuFSZ5hHJ7lbIDH0Af4bj2r8","l":"//www.mgid.com/ghits/6565562/i/5992/0/pp/1/1?h=cBxmocy60gbLw6ykr8idVCwsiO4H1fzn2lGHrYcC77QIwwWyIAMix-m6Ew9utWWF&rid=5f6863c0-f3cd-11eb-82e1-78ac440ce852&tt=Direct&att=3&cpm=1&gbpp=1&abd=1&iv=11&ct=1","adc":[],"sdl":1,"dl":"https://hughesnewstoday.com/discover-actors-from-the-blue-lagoon-today/","type":"w","clicktrackers":[],"cta":"Learn more","cdt":""}
+]],{"awc":{},"dt":"desktop","ts":"","tt":"Direct","isBot":0,"h2":"P_ZSJue8oBKknH_0sFKL284M28ri3dcIwD7aG-UhvAo*","ats":0,"rid":"5f6863c0-f3cd-11eb-82e1-78ac440ce852","pvid":"17b087b1e0e9a572678","iv":11,"brid":34,"muidn":"l72cnQW4zn8d","dnt":0,"cv":2}]);
+_mgqp();

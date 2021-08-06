@@ -1,0 +1,1 @@
+"use strict";!function(){var e="data-loading-animate";function t(t,i){switch(i){case"show":t.setAttribute(e,"active");break;case"hide":t.setAttribute(e,"hide")}}function i(){window.freedom.nsPubSub.sub("spin.loading.animate",t)}i(),window.freedom.nsPubSub.sub("spin.loading.animate.restart",i)}();

@@ -1,0 +1,1 @@
+(typeof(saveCMCookieToDDO) == 'function') && saveCMCookieToDDO();

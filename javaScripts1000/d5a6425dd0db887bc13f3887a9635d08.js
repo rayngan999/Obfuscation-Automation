@@ -1,0 +1,2 @@
+define("components/sharedReact/TooltipModalDeprecated",["FR","react","services/validationUtilities"],function(e,t,a){return function(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{},l=e.modalBody,o=e.modalTitle;return t.createElement("div",{className:"tooltipModal"},a.isSet(o)&&t.createElement("h2",{className:"tooltipModal__title small--alt2"},o),t.createElement("div",{className:"tooltipModal__content col-xs-12"},t.createElement("div",{className:"sctexteditor"},l)))}});
+//# sourceMappingURL=TooltipModalDeprecated.js.map

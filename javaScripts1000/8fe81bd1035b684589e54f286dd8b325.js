@@ -1,0 +1,1 @@
+/**/liveagent._.handlePing({"messages":[{"type":"VisitorId", "message":{"sessionId":"cdd8dcd3-f855-4580-91d5-82627a72760b"}},{"type":"SwitchServer", "message":{"newUrl":"https://d.la1-c1-ia5.salesforceliveagent.com/chat"}}]});

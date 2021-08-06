@@ -1,0 +1,1 @@
+/**/liveagent._.handlePing({"messages":[{"type":"Availability", "message":{"results":[{"id":"5734R000000Pd9n","isAvailable":true}]}}]});

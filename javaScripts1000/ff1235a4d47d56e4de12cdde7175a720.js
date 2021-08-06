@@ -1,0 +1,1 @@
+ï»¿var app = angular.module('bancor', ['angularModalService', 'ngSanitize']);

@@ -1,0 +1,9 @@
+/*!
+ * Â© Copyright IBM Corp. 2021
+ * All Rights Reserved.
+ * This software is the confidential and proprietary information
+ * of the IBM Corporation. (âConfidential Informationâ). Redistribution
+ * of the source code or binary form is not permitted without prior authorization
+ * from the IBM Corporation.
+ * 
+ */!function(e){var t={};function r(n){if(t[n])return t[n].exports;var o=t[n]={i:n,l:!1,exports:{}};return e[n].call(o.exports,o,o.exports,r),o.l=!0,o.exports}r.m=e,r.c=t,r.d=function(e,t,n){r.o(e,t)||Object.defineProperty(e,t,{enumerable:!0,get:n})},r.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},r.t=function(e,t){if(1&t&&(e=r(e)),8&t)return e;if(4&t&&"object"==typeof e&&e&&e.__esModule)return e;var n=Object.create(null);if(r.r(n),Object.defineProperty(n,"default",{enumerable:!0,value:e}),2&t&&"string"!=typeof e)for(var o in e)r.d(n,o,function(t){return e[t]}.bind(null,o));return n},r.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return r.d(t,"a",t),t},r.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},r.p="",Object.defineProperty(r,"p",{get:function(){try{if("function"!=typeof getWebpackBasePath)throw new Error("WebpackRequireFrom: 'getWebpackBasePath' is not a function or not available at runtime. See https://github.com/agoldis/webpack-require-from#troubleshooting");return getWebpackBasePath()}catch(e){return console.error(e),""}}}),r(r.s=2327)}({2327:function(e,t){var r=window.ustreamPlayer;r&&r.initialize()}});

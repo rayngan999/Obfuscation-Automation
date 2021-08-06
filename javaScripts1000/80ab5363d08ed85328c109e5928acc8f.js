@@ -1,0 +1,1 @@
+/**/embedded_svc.liveAgentAPI.handleChatSettings({"messages":[{"type":"EmbeddedServiceError", "message":{"text":"Guest API not enabled on the site/community configured with deployment. GUEST_SUPPORT_API_NOT_ENABLED : CORE : ","timestamp":1627965552549,"esTrackingId":"d780ab3d-09e3-4a8d-b499-bf6a233f7459","shouldRetry":false,"errorCode":"GUEST_SUPPORT_API_NOT_ENABLED"}}]});

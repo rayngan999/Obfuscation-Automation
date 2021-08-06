@@ -1,0 +1,2 @@
+// For license information, see `https://assets.adobedtm.com/6d2e783bbfe3/c0c47c5c96c6/7bf4c6ce15fa/RC8f141dbb62e746c69895fd60e723fdde-source.js`.
+_satellite.__registerScript('https://assets.adobedtm.com/6d2e783bbfe3/c0c47c5c96c6/7bf4c6ce15fa/RC8f141dbb62e746c69895fd60e723fdde-source.min.js', "<script async src=\"https://tagtracking.vibescm.com/tag\"></script>\n<script>\n  window.vTagData = window.vTagData || [];\n  function vTag(a,v,c){vTagData.push([a,v,c]);}\n</script>");

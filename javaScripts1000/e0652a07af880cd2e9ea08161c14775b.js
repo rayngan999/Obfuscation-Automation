@@ -1,0 +1,1 @@
+(function(t,n){n.behaviors.phantomCommonLinks={attach:function(n,a){t('.menu a, .reset-list a, .main-nav__list a',n).once('phantomCommonEmptyMenuLinks').each(function(){if(!t(this).attr('href')){t(this).removeAttr('href')}})}}})(jQuery,Drupal);

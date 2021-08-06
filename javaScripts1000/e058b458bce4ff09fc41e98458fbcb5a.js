@@ -1,0 +1,1 @@
+document.write('<div id="ads" style="display: block; width: 100%; height: 1px;color:white;"><small>No AdBlock</small></div>');

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{hIfZ:function(e,a,n){"use strict";n.r(a);var t=n("akuk"),s=n("K6IP"),c=n.n(s),l=n("xFsQ");a.default=function(){return c.a.createElement(c.a.Suspense,{fallback:c.a.createElement(t.a,{center:!0,style:{height:"100vh",width:"100vw"}},c.a.createElement("span",{className:"spinner"}))},c.a.createElement(l.a,null))}}}]);
